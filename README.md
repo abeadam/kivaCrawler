@@ -28,9 +28,15 @@ or you can download it from their main sites http://nodejs.org/#download
 ## How to run
 after cloning the repo, go inside the repo folder and run
 ''' 
-node kiva.js 
+node kiva.js startNumber endNumber
 '''
+above the start number if the first file that will be read, ie if you send 1 it will read 1.json and crawl it
+for end number, it stops before getting to that number, for example
+'''
+node kiva.js 1 5
+'''
+will get teams for lenders in json files 1, 2 ,3 ,4 but not 5
 
-as currently it only reads first json first leaders and you also need to go to localhost:5000 in the browser to trigger it to start crawling.
-Those short comming will be addressed in the near future
+
+Happy Crawling !
  

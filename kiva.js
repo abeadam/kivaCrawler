@@ -2,6 +2,10 @@ var express = require('express');
 var app = express();
 var http = require('http');
 var fs = require('fs');
+var start = process.argv[2],
+	end = process.argv[1],
+	current = start;
+
 
 var getRequestOptions = function (lender) {
 	var self = this;
@@ -25,6 +29,7 @@ function getJSONData(lender, setTeam) {
 				setTeam(JSON.parse(teamData));
 			} else {
 				console.log(res.statusCode);
+				console.log(options.path);
 				console.log('please send Abe an email if you see this');
 			}
 		})
@@ -39,39 +44,61 @@ function getJSONData(lender, setTeam) {
 }
 
 function readFile(file) {
+	debugger;
 	var str = fs.readFileSync(file, {encoding: 'utf8'} );
 	return JSON.parse(str);
 }
 
-function getFileContent() {
-	var json = readFile('../kiva_ds_json/lenders/1.json');
+function getFileContent(num) {
+	var json = readFile('./kiva_ds_json/lenders/'+num+'.json');
 	return json;
 }
 
-app.get('/', function(req, res) {
-	var i = 0,
-		json = getFileContent(),
+function processJson (num) {
+		var i = 0,
+		json = getFileContent(num),
 		len = json.header.page_size,
 		lenders = json.lenders,
 		lenderTeamObject = {},
 		currentLender,
 		getInfo = function(i) {
+			var strInfo;
 			if (i < len) {
 				var currentLender = {},
 				lenderId = lenders[i].lender_id;
 				getJSONData(lenderId, function(data) {
 					currentLender[lenderId] = data;
-					console.log(currentLender);
+					strInfo = JSON.stringify(currentLender, function(key, value) {
+						if (key === 'paging') {
+							return undefined;
+						} 
+						return value;
+					}, 4);
+					fs.writeFile('teams.json',strInfo, {
+						encoding: 'utf8',
+						flag: 'a+'
+					},function(err){
+						if(err) {
+							console.log('error writing file, contact Abe');
+						}
+					})
 				});
 				
 				setTimeout(function () {
 					getInfo(i+1);
 				},2000);
+			} else {
+				if(current < end) {
+					current++;
+					console.log('reading file'+current);
+					processJson(current);
+				}
 			}
 		};
 
 	getInfo(0);
-	res.send(json.lenders);
-});
+}
 
-var server = app.listen(5000);
+console.log('starting');
+console.log('reading file '+current);
+processJson(current);
