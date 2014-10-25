@@ -74,7 +74,7 @@ function processJson (num) {
 						} 
 						return value;
 					}, 4);
-					fs.writeFile('teams.json',strInfo, {
+					fs.writeFile('teams/teams'+num+'.json',strInfo, {
 						encoding: 'utf8',
 						flag: 'a+'
 					},function(err){
