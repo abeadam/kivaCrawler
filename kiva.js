@@ -1,5 +1,3 @@
-var express = require('express');
-var app = express();
 var http = require('http');
 var fs = require('fs');
 var start = process.argv[2],
