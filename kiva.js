@@ -3,7 +3,7 @@ var app = express();
 var http = require('http');
 var fs = require('fs');
 var start = process.argv[2],
-	end = process.argv[1],
+	end = process.argv[3],
 	current = start;
 
 
@@ -44,7 +44,6 @@ function getJSONData(lender, setTeam) {
 }
 
 function readFile(file) {
-	debugger;
 	var str = fs.readFileSync(file, {encoding: 'utf8'} );
 	return JSON.parse(str);
 }
@@ -88,14 +87,13 @@ function processJson (num) {
 					getInfo(i+1);
 				},2000);
 			} else {
+				current++;
 				if(current < end) {
-					current++;
-					console.log('reading file'+current);
+					console.log('reading file '+current);
 					processJson(current);
 				}
 			}
 		};
-
 	getInfo(0);
 }
 
