@@ -1,34 +1,63 @@
 var http = require('http');
 var fs = require('fs');
+var http5Socket = require('socks5-http-client');
 var start = process.argv[2],
 	end = process.argv[3],
 	current = start;
+var proxies = [{
+	host: "54.68.46.84",
+	port: "80"
+},{
+	host: "54.82.89.226",
+	port: "443"
+}];
+
+var currentProxy = 0;
 
 
 var getRequestOptions = function (lender) {
 	var self = this;
-	self.host = 'api.kivaws.org';
-	self.path = '/v1/lenders/'+lender+'/teams.json';
+	//host = proxies[currentProxy].host;
+	self.hostname = 'api.kivaws.org';
+	self.socksPort = '9050';
+	//self.port = proxies[currentProxy].port,
+	self.path = 'http://api.kivaws.org/v1/lenders/'+lender+'/teams.json';
 	self.method = 'GET';
+	self.headers = {
+		HOST: 'api.kivaws.org'
+	};
 }
 
 // sending the request to get teams
-function getJSONData(lender, setTeam) {
+function getJSONData(lender, setTeam, retry) {
 	var options = new getRequestOptions(lender),
 		req;
-	req = http.request(options, function(res) {
+	req = http5Socket.get(options, function(res) {
 		var teamData = "";
+		res.setEncoding('utf8');
 		res.on('data', function (teamChunk) {
 			teamData += teamChunk;
 		});
 
 		res.on('end', function() {
+			//currentProxy = (currentProxy+1) %  (proxies.length-1)
 			if (res.statusCode === 200) {
-				setTeam(JSON.parse(teamData));
+				try {
+					setTeam(JSON.parse(teamData));
+					console.log(teamData);
+				}catch(e) {
+					console.log('parse fail');
+					setTimeout(function () {
+						retry(lender);
+					},100);	
+				}
 			} else {
 				console.log(res.statusCode);
 				console.log(options.path);
 				console.log('please send Abe an email if you see this');
+				if (res.statusCode === 403) {
+					retry(lender);
+				}
 			}
 		})
 	});
@@ -79,11 +108,16 @@ function processJson (num) {
 							console.log('error writing file, contact Abe');
 						}
 					})
+				}, function (lenderId) {
+					console.log('sleeping');
+					setTimeout(function(){
+						//getJSONData(lenderId);
+					}, 10000);
 				});
 				
 				setTimeout(function () {
 					getInfo(i+1);
-				},2000);
+				},500);
 			} else {
 				current++;
 				if(current < end) {
