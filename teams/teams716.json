@@ -1,0 +1,6138 @@
+{
+    "deborah8702": {
+        "teams": []
+    }
+}{
+    "sajjad2888": {
+        "teams": []
+    }
+}{
+    "matt7309": {
+        "teams": []
+    }
+}{
+    "ogbonna4915": {
+        "teams": []
+    }
+}{
+    "peter25376668": {
+        "teams": [
+            {
+                "id": 107,
+                "shortname": "norway",
+                "name": "Norway",
+                "category": "Local Area",
+                "image": {
+                    "id": 852374,
+                    "template_id": 1
+                },
+                "whereabouts": "Norway",
+                "loan_because": "We have Cold Weather - Warm hearts !\r\nWe believe that providing microloans to entrepreneurs in developing countries is the socially responsive way of helping people break the circle of poverty. \r\n\r\nWe promote Kiva.org as a sustainable and transparent way of connecting lenders and borrowers from across the globe.",
+                "description": "Bruk denne linken for å invitere dine venner til teamet her:\r\nhttp://www.kiva.org/team/norway/recruit\r\n\r\nDet er flott hvis du trykker Facebook \"anbefale/recommend\" knappen oppe til høyre  på denne siden. Vår facebookgruppe: http://www.facebook.com/pages/Kiva-Norway/193432017389484\r\n\r\nAnbefalte lån \"sikrere\" lån: \r\nhttp://www.kiva.org/lend?sortBy=partner_default_min=0&partner_default_max=0.5&partner_risk_rating_min=1&partner_risk_rating_max=5&partner_arrears_min=0&partner_arrears_max=1.1&sortBy=repaymentTerm\r\nHjelp med \"expiring loans\": http://poverty2prosperity.org/sosloans/#fundraising_loans\r\n\r\nHjelp med \"postdisbursed\" lån:\r\nhttp://kivatools.com/fundraising/postdisbursedloans\r\n\r\nKiva tools:\r\nhttps://www.kiva.org/portfolio/collections\r\nhttp://www.bhodisoft.com/kiva-country-collector/\r\nhttp://www.bhodisoft.com/kfpc/\r\nhttp://www.kivalens.org\r\n\r\nDa har vi nådd målet på 2 million dollar utlånt. Takk til alle som har bidratt!",
+                "website_url": "http://www.kiva.org/team/norway?default_team=norway",
+                "team_since": "2008-08-29T11:06:52Z",
+                "membership_type": "open",
+                "member_count": 2610,
+                "loan_count": 95011,
+                "loaned_amount": 2690150
+            },
+            {
+                "id": 1365,
+                "shortname": "luther_college",
+                "name": "Luther College",
+                "category": "Colleges/Universities",
+                "image": {
+                    "id": 316558,
+                    "template_id": 1
+                },
+                "whereabouts": "Decorah, Iowa",
+                "loan_because": "We believe in serving each other as part of our daily lives. We believe in peace without borders.   ",
+                "description": "A conscious team that promotes peace and tries to eradicate extreme poverty in the most needed places. \r\n\r\nWe invite students/faculty/staff/alumni/families to join the group.",
+                "website_url": "sites.google.com/a/luther.edu/kiva",
+                "team_since": "2008-09-21T00:42:35Z",
+                "membership_type": "open",
+                "member_count": 80,
+                "loan_count": 2332,
+                "loaned_amount": 63775
+            },
+            {
+                "id": 94,
+                "shortname": "atheists",
+                "name": "Atheists, Agnostics, Skeptics, Freethinkers, Secular Humanists and the Non-Religious",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1401504,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "We care about human beings and understand that it takes people to help people.",
+                "description": "We are one human family, and we know that people can do good without believing in a god.\r\n\r\nThe Plus sign in the A+ Team logo reflects the fact that the team comprises Atheists, PLUS Agnostics, Skeptics, Freethinkers, Secular Humanists, and Non-Religious members.  A+ is also a symbol of excellence.\r\n\r\n***TEAM WEBSITE***\r\nhttp://apluskiva.wordpress.com/\r\n\r\n***TEAM RESOURCES***\r\nSecular Loans\r\nhttp://goo.gl/wtDkJ\r\n\r\nField Partners - Social and Secular Ratings:\r\nwww.tinyurl.com/AASFSHNR-MFIs\r\n\r\n***OTHER RESOURCES:***\r\nStarfish List:\r\nhttp://starfish.dynalias.org/\r\n\r\nKivaLens:\r\nhttp://www.kivalens.org/\r\n\r\nToolkit for analyzing Kiva data:\r\nhttp://build.kiva.org/",
+                "website_url": "http://apluskiva.wordpress.com/",
+                "team_since": "2008-08-29T03:40:31Z",
+                "membership_type": "open",
+                "member_count": 30460,
+                "loan_count": 611844,
+                "loaned_amount": 17856150
+            },
+            {
+                "id": 283,
+                "shortname": "christians",
+                "name": "Kiva Christians",
+                "category": "Friends",
+                "image": {
+                    "id": 471653,
+                    "template_id": 1
+                },
+                "whereabouts": "Worldwide",
+                "loan_because": "Pure and undefiled religion before God the Father is this: to care for orphans and widows in their misfortune and to keep oneself unstained by the world. (Jam. 1:27) http://whoisjesus-really.com/\r\n\r\nLink to information regarding Christian partners       \r\nhttp://goo.gl/LU3hzz",
+                "description": "A group of believers in Jesus Christ, brought together through a common purpose: to help those in need around the world.    \r\n",
+                "website_url": "http://whoisjesus-really.com/",
+                "team_since": "2008-08-31T15:33:31Z",
+                "membership_type": "open",
+                "member_count": 14402,
+                "loan_count": 360780,
+                "loaned_amount": 14009275
+            },
+            {
+                "id": 22,
+                "shortname": "poverty2prosperity",
+                "name": "Poverty2Prosperity.org - Poverty-Escape",
+                "category": "Businesses",
+                "image": {
+                    "id": 198853,
+                    "template_id": 1
+                },
+                "whereabouts": "San Francisco Bay Area CA",
+                "loan_because": "Poverty2Prosperity.org (P2P) is all about Poverty-Escape. Please join our fun team and put Poverty-Escape in the lead!  See how to get your I'm a Kiva Loaner Bracelet and more by participating on Team P2P - visit our web site for details!",
+                "description": "One of P2P's major poverty-escaping projects is to participate in making microloans through the Kiva platform. See the web site for details on all of our projects. Also see our Perpetual Fund lender account which allows people to designate funds for perpetual loaning here on Kiva, http://www.kiva.org/lender/P2PPerpetualFund\r\n\r\nWe have a special purpose fund to keep loans from expiring. Please join us at http://poverty2prosperity.org/sosloans to see currently funding loans from the SOS Loan fund.\r\n\r\nNOTE:  Poverty2Prosperity is also a non-profit, and any messages not related to Kiva or Poverty2Prosperity may be deleted.  If there is an idea you would like to share, contact one of the Team Captains to get permission.  Thank you for your consideration.",
+                "website_url": "http://Poverty2Prosperity.org",
+                "team_since": "2008-08-22T17:24:49Z",
+                "membership_type": "open",
+                "member_count": 3042,
+                "loan_count": 92106,
+                "loaned_amount": 2902200
+            }
+        ]
+    }
+}{
+    "eric35326407": {
+        "teams": []
+    }
+}{
+    "laurie83387862": {
+        "teams": []
+    }
+}{
+    "mohammed9464": {
+        "teams": []
+    }
+}{
+    "imran5184": {
+        "teams": []
+    }
+}{
+    "spencer82961879": {
+        "teams": []
+    }
+}{
+    "heather3150": {
+        "teams": []
+    }
+}{
+    "manu7654": {
+        "teams": []
+    }
+}{
+    "judy6263": {
+        "teams": []
+    }
+}{
+    "erin9702": {
+        "teams": []
+    }
+}{
+    "nicole57363546": {
+        "teams": []
+    }
+}{
+    "agata2323": {
+        "teams": [
+            {
+                "id": 4674,
+                "shortname": "help_panama_thrive",
+                "name": "Help rural  Panama thrive",
+                "category": "Common Interest",
+                "whereabouts": "Panama",
+                "loan_because": "we want rural Panama to thrive through assistance and support especially to women and children",
+                "description": "Our team provides support to women and children to improve their educational and employment opportunities and enhance their standard of living.",
+                "website_url": "",
+                "team_since": "2009-01-28T21:02:54Z",
+                "membership_type": "open",
+                "member_count": 4,
+                "loan_count": 6,
+                "loaned_amount": 150
+            }
+        ]
+    }
+}{
+    "jeff2690": {
+        "teams": []
+    }
+}{
+    "jessica45346247": {
+        "teams": []
+    }
+}{
+    "valerie3367": {
+        "teams": []
+    }
+}{
+    "bobbijo4726": {
+        "teams": []
+    }
+}{
+    "jen5352": {
+        "teams": []
+    }
+}{
+    "deby6115": {
+        "teams": []
+    }
+}{
+    "rachel21665037": {
+        "teams": []
+    }
+}{
+    "alexandra4711": {
+        "teams": [
+            {
+                "id": 2598,
+                "shortname": "zacs_friends",
+                "name": "Zac's friends",
+                "category": "Friends",
+                "image": {
+                    "id": 322962,
+                    "template_id": 1
+                },
+                "whereabouts": "Europe",
+                "loan_because": "it's an efficient way to help people who have no access to credit, to grow their business and have a better life. ",
+                "description": "We are a team made up of friends and families. We invite people that we know and trust to join the Zac's friends team.",
+                "website_url": "",
+                "team_since": "2008-11-12T13:14:20Z",
+                "membership_type": "closed",
+                "member_count": 102,
+                "loan_count": 4002,
+                "loaned_amount": 111650
+            }
+        ]
+    }
+}{
+    "katie45833205": {
+        "teams": []
+    }
+}{
+    "joanne4699": {
+        "teams": []
+    }
+}{
+    "catherine8931": {
+        "teams": []
+    }
+}{
+    "annette2365": {
+        "teams": [
+            {
+                "id": 283,
+                "shortname": "christians",
+                "name": "Kiva Christians",
+                "category": "Friends",
+                "image": {
+                    "id": 471653,
+                    "template_id": 1
+                },
+                "whereabouts": "Worldwide",
+                "loan_because": "Pure and undefiled religion before God the Father is this: to care for orphans and widows in their misfortune and to keep oneself unstained by the world. (Jam. 1:27) http://whoisjesus-really.com/\r\n\r\nLink to information regarding Christian partners       \r\nhttp://goo.gl/LU3hzz",
+                "description": "A group of believers in Jesus Christ, brought together through a common purpose: to help those in need around the world.    \r\n",
+                "website_url": "http://whoisjesus-really.com/",
+                "team_since": "2008-08-31T15:33:31Z",
+                "membership_type": "open",
+                "member_count": 14402,
+                "loan_count": 360780,
+                "loaned_amount": 14009275
+            }
+        ]
+    }
+}{
+    "global1083": {
+        "teams": []
+    }
+}{
+    "kate2041": {
+        "teams": []
+    }
+}{
+    "joshua9429": {
+        "teams": []
+    }
+}{
+    "caroline3277": {
+        "teams": []
+    }
+}{
+    "kallista7421": {
+        "teams": []
+    }
+}{
+    "brittany2093": {
+        "teams": []
+    }
+}{
+    "tim61855186": {
+        "teams": []
+    }
+}{
+    "emma7932": {
+        "teams": []
+    }
+}{
+    "john5629": {
+        "teams": []
+    }
+}{
+    "yasin9252": {
+        "teams": []
+    }
+}{
+    "ben1504": {
+        "teams": []
+    }
+}{
+    "paul25259061": {
+        "teams": []
+    }
+}{
+    "jennifer2595": {
+        "teams": []
+    }
+}{
+    "sean3289": {
+        "teams": []
+    }
+}{
+    "cathy7189": {
+        "teams": []
+    }
+}{
+    "laura4529": {
+        "teams": []
+    }
+}{
+    "lisa3683": {
+        "teams": []
+    }
+}{
+    "mumtaz4221": {
+        "teams": []
+    }
+}{
+    "christina8114": {
+        "teams": []
+    }
+}{
+    "charlie9327": {
+        "teams": []
+    }
+}{
+    "andrema": {
+        "teams": []
+    }
+}{
+    "harold9583": {
+        "teams": []
+    }
+}{
+    "elizabeth34282140": {
+        "teams": []
+    }
+}{
+    "maggie1617": {
+        "teams": [
+            {
+                "id": 12045,
+                "shortname": "ek_riley_investments",
+                "name": "E.K. Riley Investments",
+                "category": "Businesses",
+                "image": {
+                    "id": 855401,
+                    "template_id": 1
+                },
+                "whereabouts": "Seattle, Washington",
+                "loan_because": "",
+                "description": "",
+                "website_url": "www.ekriley.com",
+                "team_since": "2010-02-06T01:07:43Z",
+                "membership_type": "open",
+                "member_count": 13,
+                "loan_count": 47,
+                "loaned_amount": 1200
+            }
+        ]
+    }
+}{
+    "marilyn5348": {
+        "teams": []
+    }
+}{
+    "rhonda7719": {
+        "teams": []
+    }
+}{
+    "janice2933": {
+        "teams": []
+    }
+}{
+    "abigail6216": {
+        "teams": []
+    }
+}{
+    "sarah1309": {
+        "teams": []
+    }
+}{
+    "hannah9416": {
+        "teams": []
+    }
+}{
+    "ana3067": {
+        "teams": []
+    }
+}{
+    "david68586448": {
+        "teams": []
+    }
+}{
+    "amir1392": {
+        "teams": []
+    }
+}{
+    "jen3366": {
+        "teams": []
+    }
+}{
+    "phillip6778": {
+        "teams": []
+    }
+}{
+    "jeffrey3748": {
+        "teams": []
+    }
+}{
+    "bisera8854": {
+        "teams": []
+    }
+}{
+    "laurie3734": {
+        "teams": []
+    }
+}{
+    "leslie89617678": {
+        "teams": []
+    }
+}{
+    "hafeeza3916": {
+        "teams": []
+    }
+}{
+    "carolyn1978": {
+        "teams": []
+    }
+}{
+    "katie2722": {
+        "teams": []
+    }
+}{
+    "global1048": {
+        "teams": []
+    }
+}{
+    "bahman5135": {
+        "teams": []
+    }
+}{
+    "thomas2186": {
+        "teams": []
+    }
+}{
+    "cindy1076": {
+        "teams": []
+    }
+}{
+    "felicity8303": {
+        "teams": []
+    }
+}{
+    "adam5102": {
+        "teams": [
+            {
+                "id": 16949,
+                "shortname": "jacob",
+                "name": "Jacob",
+                "category": "Alumni Groups",
+                "whereabouts": "New York",
+                "loan_because": "",
+                "description": "reglazing | \r\ntub refinishing | \r\nbathtub resurfacing",
+                "website_url": "",
+                "team_since": "2010-12-22T18:04:04Z",
+                "membership_type": "open",
+                "member_count": 3,
+                "loan_count": 0,
+                "loaned_amount": 0
+            }
+        ]
+    }
+}{
+    "vivianburke": {
+        "teams": []
+    }
+}{
+    "candice1879": {
+        "teams": []
+    }
+}{
+    "luckydrop1569": {
+        "teams": []
+    }
+}{
+    "david4088": {
+        "teams": []
+    }
+}{
+    "robert7832": {
+        "teams": []
+    }
+}{
+    "misty9686": {
+        "teams": []
+    }
+}{
+    "thomas6844": {
+        "teams": []
+    }
+}{
+    "martha4457": {
+        "teams": []
+    }
+}{
+    "karen8805": {
+        "teams": []
+    }
+}{
+    "maurits7760": {
+        "teams": []
+    }
+}{
+    "john1703": {
+        "teams": [
+            {
+                "id": 16993,
+                "shortname": "connection",
+                "name": "Connection",
+                "category": "Families",
+                "whereabouts": "Colorado",
+                "loan_because": "we want to make a connection with others who need help.",
+                "description": "We are a loving family of families seeking to enhance our own connections to each other and the community.",
+                "website_url": "",
+                "team_since": "2010-12-24T03:39:02Z",
+                "membership_type": "closed",
+                "member_count": 2,
+                "loan_count": 78,
+                "loaned_amount": 1950
+            }
+        ]
+    }
+}{
+    "patrick8195": {
+        "teams": []
+    }
+}{
+    "nancy2872": {
+        "teams": []
+    }
+}{
+    "shirko7880": {
+        "teams": []
+    }
+}{
+    "lesley9648": {
+        "teams": []
+    }
+}{
+    "jim6880": {
+        "teams": []
+    }
+}{
+    "joshua73209398": {
+        "teams": []
+    }
+}{
+    "jorge4895": {
+        "teams": []
+    }
+}{
+    "jagdish8142": {
+        "teams": []
+    }
+}{
+    "sharon9007": {
+        "teams": []
+    }
+}{
+    "manzooralirajpar1725": {
+        "teams": []
+    }
+}{
+    "tyler83512642": {
+        "teams": []
+    }
+}{
+    "diane4266": {
+        "teams": []
+    }
+}{
+    "paula2485": {
+        "teams": []
+    }
+}{
+    "jeannette4005": {
+        "teams": []
+    }
+}{
+    "riza8682": {
+        "teams": []
+    }
+}{
+    "maria9455": {
+        "teams": []
+    }
+}{
+    "sharon9657": {
+        "teams": []
+    }
+}{
+    "paulo2824": {
+        "teams": []
+    }
+}{
+    "elizabeth1063": {
+        "teams": []
+    }
+}{
+    "atif3840": {
+        "teams": [
+            {
+                "id": 16951,
+                "shortname": "atif404",
+                "name": "atif404",
+                "category": "Alumni Groups",
+                "image": {
+                    "id": 674381,
+                    "template_id": 1
+                },
+                "whereabouts": "my name atiif",
+                "loan_because": "hi my name atif kasi na internet par kam kar na hy call me +923054049798",
+                "description": "hi my name atif kasi na internet par kam kar na hy call me +923054049798",
+                "website_url": "http://atif404.blogspot.com/",
+                "team_since": "2010-12-22T18:24:33Z",
+                "membership_type": "open",
+                "member_count": 3,
+                "loan_count": 0,
+                "loaned_amount": 0
+            }
+        ]
+    }
+}{
+    "robert3102": {
+        "teams": [
+            {
+                "id": 12045,
+                "shortname": "ek_riley_investments",
+                "name": "E.K. Riley Investments",
+                "category": "Businesses",
+                "image": {
+                    "id": 855401,
+                    "template_id": 1
+                },
+                "whereabouts": "Seattle, Washington",
+                "loan_because": "",
+                "description": "",
+                "website_url": "www.ekriley.com",
+                "team_since": "2010-02-06T01:07:43Z",
+                "membership_type": "open",
+                "member_count": 13,
+                "loan_count": 47,
+                "loaned_amount": 1200
+            }
+        ]
+    }
+}{
+    "danal7979": {
+        "teams": []
+    }
+}{
+    "diane6725": {
+        "teams": []
+    }
+}{
+    "mirko5883": {
+        "teams": []
+    }
+}{
+    "citizen7455": {
+        "teams": []
+    }
+}{
+    "paul4557": {
+        "teams": []
+    }
+}{
+    "muhammad9428": {
+        "teams": []
+    }
+}{
+    "congratulationsyouwo9587": {
+        "teams": []
+    }
+}{
+    "te1322": {
+        "teams": []
+    }
+}{
+    "robert19589781": {
+        "teams": []
+    }
+}{
+    "susan68304006": {
+        "teams": [
+            {
+                "id": 330,
+                "shortname": "taiwan_gives",
+                "name": "Taiwan Gives",
+                "category": "Local Area",
+                "image": {
+                    "id": 205165,
+                    "template_id": 1
+                },
+                "whereabouts": "Taiwan",
+                "loan_because": "We love the world!\r\n",
+                "description": "Welcome all donors from Taiwan or who love Taiwan. >>  Ilha Formosa - meaning \"Beautiful Island\" in Portuguese ~ Taiwan Will Touch Your Heart. ",
+                "website_url": "http://www.youtube.com/watch?v=gvA-nKGbgzU",
+                "team_since": "2008-09-01T05:20:49Z",
+                "membership_type": "open",
+                "member_count": 487,
+                "loan_count": 23990,
+                "loaned_amount": 679025
+            },
+            {
+                "id": 239,
+                "shortname": "washington_state",
+                "name": "Washington State",
+                "category": "Local Area",
+                "image": {
+                    "id": 196512,
+                    "template_id": 1
+                },
+                "whereabouts": "Washington State",
+                "loan_because": "Each of us has a responsibility to all of us.",
+                "description": "",
+                "website_url": "",
+                "team_since": "2008-08-30T21:40:53Z",
+                "membership_type": "open",
+                "member_count": 744,
+                "loan_count": 30685,
+                "loaned_amount": 866600
+            }
+        ]
+    }
+}{
+    "leslie6440": {
+        "teams": [
+            {
+                "id": 25846,
+                "shortname": "team_jumbo",
+                "name": "Team Jumbo",
+                "category": "Families",
+                "image": {
+                    "id": 1269300,
+                    "template_id": 1
+                },
+                "whereabouts": "Canada",
+                "loan_because": "it's better to loan than not to loan...",
+                "description": "Go forth and prosper! No one gets left behind when Team Jumbo is around. ",
+                "website_url": "",
+                "team_since": "2013-01-03T03:20:38Z",
+                "membership_type": "open",
+                "member_count": 3,
+                "loan_count": 14,
+                "loaned_amount": 350
+            }
+        ]
+    }
+}{
+    "victoria6618": {
+        "teams": []
+    }
+}{
+    "mudasar7871": {
+        "teams": []
+    }
+}{
+    "sheila9663": {
+        "teams": []
+    }
+}{
+    "sujon8365": {
+        "teams": []
+    }
+}{
+    "matt86712010": {
+        "teams": []
+    }
+}{
+    "bruce6562": {
+        "teams": []
+    }
+}{
+    "robin4169": {
+        "teams": []
+    }
+}{
+    "rosemarie4999": {
+        "teams": []
+    }
+}{
+    "luckydrop6835": {
+        "teams": []
+    }
+}{
+    "byju7851": {
+        "teams": []
+    }
+}{
+    "marian1999": {
+        "teams": []
+    }
+}{
+    "abdullah8474": {
+        "teams": []
+    }
+}{
+    "derek3684": {
+        "teams": []
+    }
+}{
+    "selim": {
+        "teams": [
+            {
+                "id": 405,
+                "shortname": "turkey",
+                "name": "Turkey",
+                "category": "Local Area",
+                "image": {
+                    "id": 197891,
+                    "template_id": 1
+                },
+                "whereabouts": "Turkey",
+                "loan_because": "",
+                "description": "For Turkish Kiva users!",
+                "website_url": "",
+                "team_since": "2008-09-02T21:58:34Z",
+                "membership_type": "open",
+                "member_count": 151,
+                "loan_count": 2754,
+                "loaned_amount": 91575
+            },
+            {
+                "id": 31,
+                "shortname": "google",
+                "name": "Google",
+                "category": "Businesses - Internal Groups",
+                "image": {
+                    "id": 1393939,
+                    "template_id": 1
+                },
+                "whereabouts": "Mountain View, CA",
+                "loan_because": "It's not evil!",
+                "description": "A group of Google employees",
+                "website_url": "www.google.com",
+                "team_since": "2008-08-22T22:45:42Z",
+                "membership_type": "open",
+                "member_count": 7846,
+                "loan_count": 26633,
+                "loaned_amount": 698425
+            },
+            {
+                "id": 20799,
+                "shortname": "friends_of_maya",
+                "name": "Friends of Maya",
+                "category": "Field Partner Fans",
+                "image": {
+                    "id": 869414,
+                    "template_id": 1
+                },
+                "whereabouts": "Turkey",
+                "loan_because": "we support the work that Maya is doing in Istanbul and the surrounding area.",
+                "description": "",
+                "website_url": "http://www.kiva.org/partners/198",
+                "team_since": "2011-08-10T16:30:35Z",
+                "membership_type": "open",
+                "member_count": 29,
+                "loan_count": 270,
+                "loaned_amount": 7625
+            }
+        ]
+    }
+}{
+    "john74139637": {
+        "teams": []
+    }
+}{
+    "jake6280": {
+        "teams": []
+    }
+}{
+    "lindsay7852": {
+        "teams": []
+    }
+}{
+    "imran9728": {
+        "teams": []
+    }
+}{
+    "hussein1838": {
+        "teams": []
+    }
+}{
+    "maureen9297": {
+        "teams": []
+    }
+}{
+    "josep7935": {
+        "teams": [
+            {
+                "id": 5847,
+                "shortname": "istockphoto",
+                "name": "iStockphoto",
+                "category": "Common Interest",
+                "image": {
+                    "id": 294842,
+                    "template_id": 1
+                },
+                "whereabouts": "Calgary, Canada",
+                "loan_because": "We want to see the world we photograph prosper. ",
+                "description": "A collection of photographers from around the world. ",
+                "website_url": "www.istockphoto.com",
+                "team_since": "2009-03-27T00:07:17Z",
+                "membership_type": "open",
+                "member_count": 116,
+                "loan_count": 1906,
+                "loaned_amount": 49900
+            }
+        ]
+    }
+}{
+    "evelina3742": {
+        "teams": []
+    }
+}{
+    "congratulationsyouwo4421": {
+        "teams": []
+    }
+}{
+    "bruce1644": {
+        "teams": [
+            {
+                "id": 22388,
+                "shortname": "velocipedesalon",
+                "name": "VelocipedeSalon",
+                "category": "Sports Groups",
+                "image": {
+                    "id": 1323397,
+                    "template_id": 1
+                },
+                "whereabouts": "Universal",
+                "loan_because": "Making a difference working together",
+                "description": "Like minded bicycle riders from all over the world",
+                "website_url": "www.velocipedesalon.com",
+                "team_since": "2011-12-21T00:43:58Z",
+                "membership_type": "open",
+                "member_count": 27,
+                "loan_count": 173,
+                "loaned_amount": 4800
+            }
+        ]
+    }
+}{
+    "penny8352": {
+        "teams": []
+    }
+}{
+    "cornelia2941": {
+        "teams": []
+    }
+}{
+    "maria12638230": {
+        "teams": []
+    }
+}{
+    "raja5952": {
+        "teams": []
+    }
+}{
+    "chelsea5462": {
+        "teams": []
+    }
+}{
+    "michael79763621": {
+        "teams": []
+    }
+}{
+    "sara1378": {
+        "teams": []
+    }
+}{
+    "neena3815": {
+        "teams": []
+    }
+}{
+    "avon1537": {
+        "teams": []
+    }
+}{
+    "deborah7167": {
+        "teams": []
+    }
+}{
+    "luckydrop3749": {
+        "teams": []
+    }
+}{
+    "global2863": {
+        "teams": []
+    }
+}{
+    "david9834": {
+        "teams": [
+            {
+                "id": 283,
+                "shortname": "christians",
+                "name": "Kiva Christians",
+                "category": "Friends",
+                "image": {
+                    "id": 471653,
+                    "template_id": 1
+                },
+                "whereabouts": "Worldwide",
+                "loan_because": "Pure and undefiled religion before God the Father is this: to care for orphans and widows in their misfortune and to keep oneself unstained by the world. (Jam. 1:27) http://whoisjesus-really.com/\r\n\r\nLink to information regarding Christian partners       \r\nhttp://goo.gl/LU3hzz",
+                "description": "A group of believers in Jesus Christ, brought together through a common purpose: to help those in need around the world.    \r\n",
+                "website_url": "http://whoisjesus-really.com/",
+                "team_since": "2008-08-31T15:33:31Z",
+                "membership_type": "open",
+                "member_count": 14402,
+                "loan_count": 360780,
+                "loaned_amount": 14009275
+            }
+        ]
+    }
+}{
+    "congratulationsyouwo1329": {
+        "teams": []
+    }
+}{
+    "emily8199": {
+        "teams": []
+    }
+}{
+    "svetlin2704": {
+        "teams": [
+            {
+                "id": 3450,
+                "shortname": "bulgarian_bloogers",
+                "name": "Kiva Team - Bulgaria",
+                "category": "Local Area",
+                "image": {
+                    "id": 241094,
+                    "template_id": 1
+                },
+                "whereabouts": "Bulgaria",
+                "loan_because": "We want to support businesses in  developing countries.",
+                "description": "Bulgarian bloggers, IT persons and good people. \r\n\r\n--\r\nPicture is under CC by: http://www.flickr.com/photos/toshu/",
+                "website_url": "http://www.bogomil.info/1949/",
+                "team_since": "2008-12-16T08:24:13Z",
+                "membership_type": "open",
+                "member_count": 72,
+                "loan_count": 1481,
+                "loaned_amount": 39400
+            },
+            {
+                "id": 117,
+                "shortname": "team_europe",
+                "name": "Team Europe",
+                "category": "Local Area",
+                "image": {
+                    "id": 195919,
+                    "template_id": 1
+                },
+                "whereabouts": "Europe",
+                "loan_because": "We think Kiva is a unique opportunity for people all over the world to assist entrepreneurs in improving their businesses and communities.",
+                "description": "We are European lenders (EU, EFTA, and all those who feel they belong) who share the belief in Kiva's vision.",
+                "website_url": "",
+                "team_since": "2008-08-29T14:45:05Z",
+                "membership_type": "open",
+                "member_count": 4924,
+                "loan_count": 123425,
+                "loaned_amount": 3719225
+            },
+            {
+                "id": 94,
+                "shortname": "atheists",
+                "name": "Atheists, Agnostics, Skeptics, Freethinkers, Secular Humanists and the Non-Religious",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1401504,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "We care about human beings and understand that it takes people to help people.",
+                "description": "We are one human family, and we know that people can do good without believing in a god.\r\n\r\nThe Plus sign in the A+ Team logo reflects the fact that the team comprises Atheists, PLUS Agnostics, Skeptics, Freethinkers, Secular Humanists, and Non-Religious members.  A+ is also a symbol of excellence.\r\n\r\n***TEAM WEBSITE***\r\nhttp://apluskiva.wordpress.com/\r\n\r\n***TEAM RESOURCES***\r\nSecular Loans\r\nhttp://goo.gl/wtDkJ\r\n\r\nField Partners - Social and Secular Ratings:\r\nwww.tinyurl.com/AASFSHNR-MFIs\r\n\r\n***OTHER RESOURCES:***\r\nStarfish List:\r\nhttp://starfish.dynalias.org/\r\n\r\nKivaLens:\r\nhttp://www.kivalens.org/\r\n\r\nToolkit for analyzing Kiva data:\r\nhttp://build.kiva.org/",
+                "website_url": "http://apluskiva.wordpress.com/",
+                "team_since": "2008-08-29T03:40:31Z",
+                "membership_type": "open",
+                "member_count": 30460,
+                "loan_count": 611844,
+                "loaned_amount": 17856150
+            }
+        ]
+    }
+}{
+    "bevereley1405": {
+        "teams": []
+    }
+}{
+    "jane7329": {
+        "teams": []
+    }
+}{
+    "jeffrey6208": {
+        "teams": []
+    }
+}{
+    "startwijzer9696": {
+        "teams": []
+    }
+}{
+    "keith7158": {
+        "teams": []
+    }
+}{
+    "louise9441": {
+        "teams": []
+    }
+}{
+    "deb6350": {
+        "teams": []
+    }
+}{
+    "david64055670": {
+        "teams": []
+    }
+}{
+    "michelle2622": {
+        "teams": [
+            {
+                "id": 12872,
+                "shortname": "elmhurst_presbyterian",
+                "name": "Elmhurst Presbyterian",
+                "category": "Religious Congregations",
+                "image": {
+                    "id": 518721,
+                    "template_id": 1
+                },
+                "whereabouts": "Elmhurst, IL",
+                "loan_because": "",
+                "description": "",
+                "website_url": "www.elmhurstchurch.org",
+                "team_since": "2010-04-01T21:19:39Z",
+                "membership_type": "open",
+                "member_count": 7,
+                "loan_count": 36,
+                "loaned_amount": 900
+            }
+        ]
+    }
+}{
+    "dj1752": {
+        "teams": []
+    }
+}{
+    "heather1001": {
+        "teams": []
+    }
+}{
+    "david17107230": {
+        "teams": []
+    }
+}{
+    "john35849231": {
+        "teams": []
+    }
+}{
+    "evan6924": {
+        "teams": []
+    }
+}{
+    "beth83572263": {
+        "teams": []
+    }
+}{
+    "jill3337": {
+        "teams": []
+    }
+}{
+    "alex8042": {
+        "teams": []
+    }
+}{
+    "teresa7664": {
+        "teams": [
+            {
+                "id": 7293,
+                "shortname": "kyrgyzstan",
+                "name": "Supporters of Kyrgyzstan -Mol Bulak Finance",
+                "category": "Local Area",
+                "image": {
+                    "id": 541097,
+                    "template_id": 1
+                },
+                "whereabouts": "Kyrgyzstan",
+                "loan_because": "to learn, to help and to connect.",
+                "description": "In the very heart of Central Asia lies a wonderful mountainous land – a country of Kyrgyzstan with the rich history that dates back to 201 BC. More than 80 ethnic groups live here, creating the variety of cultures and traditions. It serves as a trade crossroad and a trans-shipment point between the Europe and Asia as before when it used to be a connecting-link between north and south directions of Silk Way. \r\n\r\nThe economy of Kyrgyzstan was severely affected by the collapse of the Soviet trading block. More than 20% of the Kyrgyz population has left to other parts of the Soviet Union within past 10 years to seek work.\r\n\r\nWhile strong growth in neighboring Kazakhstan and China has created opportunities for expansion, Kyrgyzstan remains a small economy vulnerable to external shocks. Persistently high inflation, coupled with the global financial crisis, threatens to undermine recent improvements in poverty levels.",
+                "website_url": "http://molbulakfinance.kg/en/home",
+                "team_since": "2009-06-17T05:19:26Z",
+                "membership_type": "open",
+                "member_count": 91,
+                "loan_count": 1554,
+                "loaned_amount": 42775
+            }
+        ]
+    }
+}{
+    "andersemily9585": {
+        "teams": []
+    }
+}{
+    "lauren3329": {
+        "teams": []
+    }
+}{
+    "scott1535": {
+        "teams": []
+    }
+}{
+    "brian61036466": {
+        "teams": []
+    }
+}{
+    "hayana7349": {
+        "teams": []
+    }
+}{
+    "bvig": {
+        "teams": []
+    }
+}{
+    "teresa8325": {
+        "teams": []
+    }
+}{
+    "khalid2393": {
+        "teams": []
+    }
+}{
+    "grant8244": {
+        "teams": []
+    }
+}{
+    "stacey1907": {
+        "teams": []
+    }
+}{
+    "djordje1732": {
+        "teams": []
+    }
+}{
+    "barbara10603419": {
+        "teams": []
+    }
+}{
+    "congratulations7050": {
+        "teams": []
+    }
+}{
+    "baz4388": {
+        "teams": []
+    }
+}{
+    "ahmad8996": {
+        "teams": []
+    }
+}{
+    "eric1291": {
+        "teams": []
+    }
+}{
+    "angela1316": {
+        "teams": []
+    }
+}{
+    "shawndra9776": {
+        "teams": []
+    }
+}{
+    "marybeth6828": {
+        "teams": []
+    }
+}{
+    "dee5799": {
+        "teams": []
+    }
+}{
+    "karen5139": {
+        "teams": []
+    }
+}{
+    "amanda6648": {
+        "teams": []
+    }
+}{
+    "robin3702": {
+        "teams": []
+    }
+}{
+    "mia7644": {
+        "teams": []
+    }
+}{
+    "cib5889": {
+        "teams": []
+    }
+}{
+    "jennifer7667": {
+        "teams": []
+    }
+}{
+    "clyde3987": {
+        "teams": []
+    }
+}{
+    "malik7805": {
+        "teams": []
+    }
+}{
+    "joao7632": {
+        "teams": []
+    }
+}{
+    "eileen2977": {
+        "teams": []
+    }
+}{
+    "kelsey9529": {
+        "teams": []
+    }
+}{
+    "ryan1103": {
+        "teams": [
+            {
+                "id": 260,
+                "shortname": "team_canada",
+                "name": "Team CANADA",
+                "category": "Local Area",
+                "image": {
+                    "id": 850245,
+                    "template_id": 1
+                },
+                "whereabouts": "Canada",
+                "loan_because": "So little means so much. And because we are so fortunate to be able to lend with the luxury of not worrying about whether we ever see that money again, while the clients borrow with the hope and determination that they will be able to repay, and improve their lives along the way.\r\n\r\nCheck out fundraising loans already being supported by Team Canada:\r\nhttp://www.kiva.org/team/team_canada/loans?status=fundRaising",
+                "description": "We're Canadian, eh?",
+                "website_url": "http://www.kiva.org/team/team_canada",
+                "team_since": "2008-08-31T06:17:49Z",
+                "membership_type": "open",
+                "member_count": 7234,
+                "loan_count": 150592,
+                "loaned_amount": 4737725
+            },
+            {
+                "id": 94,
+                "shortname": "atheists",
+                "name": "Atheists, Agnostics, Skeptics, Freethinkers, Secular Humanists and the Non-Religious",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1401504,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "We care about human beings and understand that it takes people to help people.",
+                "description": "We are one human family, and we know that people can do good without believing in a god.\r\n\r\nThe Plus sign in the A+ Team logo reflects the fact that the team comprises Atheists, PLUS Agnostics, Skeptics, Freethinkers, Secular Humanists, and Non-Religious members.  A+ is also a symbol of excellence.\r\n\r\n***TEAM WEBSITE***\r\nhttp://apluskiva.wordpress.com/\r\n\r\n***TEAM RESOURCES***\r\nSecular Loans\r\nhttp://goo.gl/wtDkJ\r\n\r\nField Partners - Social and Secular Ratings:\r\nwww.tinyurl.com/AASFSHNR-MFIs\r\n\r\n***OTHER RESOURCES:***\r\nStarfish List:\r\nhttp://starfish.dynalias.org/\r\n\r\nKivaLens:\r\nhttp://www.kivalens.org/\r\n\r\nToolkit for analyzing Kiva data:\r\nhttp://build.kiva.org/",
+                "website_url": "http://apluskiva.wordpress.com/",
+                "team_since": "2008-08-29T03:40:31Z",
+                "membership_type": "open",
+                "member_count": 30460,
+                "loan_count": 611844,
+                "loaned_amount": 17856150
+            }
+        ]
+    }
+}{
+    "aymn8289": {
+        "teams": []
+    }
+}{
+    "kristen1383": {
+        "teams": []
+    }
+}{
+    "kristi4295": {
+        "teams": []
+    }
+}{
+    "global8252": {
+        "teams": []
+    }
+}{
+    "muhammadfarooa9026": {
+        "teams": []
+    }
+}{
+    "nicole52649683": {
+        "teams": []
+    }
+}{
+    "andreas6340": {
+        "teams": []
+    }
+}{
+    "joseph3466": {
+        "teams": []
+    }
+}{
+    "zahid6353": {
+        "teams": []
+    }
+}{
+    "julie69648895": {
+        "teams": []
+    }
+}{
+    "daniel2872": {
+        "teams": []
+    }
+}{
+    "judy5313": {
+        "teams": []
+    }
+}{
+    "lee3157": {
+        "teams": []
+    }
+}{
+    "daisy2309": {
+        "teams": []
+    }
+}{
+    "bob5291": {
+        "teams": []
+    }
+}{
+    "andrea4882": {
+        "teams": [
+            {
+                "id": 5787,
+                "shortname": "texas_state_university_the_center_for_international_studies",
+                "name": "Texas State University- The Center for International Studies",
+                "category": "Colleges/Universities",
+                "image": {
+                    "id": 292963,
+                    "template_id": 1
+                },
+                "whereabouts": "San Marcos, TX",
+                "loan_because": "We believe that each individual can make a difference in the lives of others by encouraging a culture of giving, gratitude, and awareness. ",
+                "description": "We are students, staff, alumni and friends of Texas State University- San Marcos!  Even if you have never attended the university but just love San Marcos, the beautiful San Marcos River, or just want to participate with Kiva and belong to a great team...  Join us in our effort to help others! \r\n\r\n",
+                "website_url": "http://www.txstate.edu/internationalstudies/about/history.html",
+                "team_since": "2009-03-23T18:48:12Z",
+                "membership_type": "open",
+                "member_count": 19,
+                "loan_count": 101,
+                "loaned_amount": 2900
+            }
+        ]
+    }
+}{
+    "micah4807": {
+        "teams": []
+    }
+}{
+    "chris8629": {
+        "teams": []
+    }
+}{
+    "congratulations9054": {
+        "teams": []
+    }
+}{
+    "sydney7714": {
+        "teams": []
+    }
+}{
+    "kathryn3174": {
+        "teams": []
+    }
+}{
+    "kim94971710": {
+        "teams": []
+    }
+}{
+    "ashish3284": {
+        "teams": []
+    }
+}{
+    "maralea6789": {
+        "teams": []
+    }
+}{
+    "karly6272": {
+        "teams": []
+    }
+}{
+    "beat4698": {
+        "teams": []
+    }
+}{
+    "curt8107": {
+        "teams": []
+    }
+}{
+    "chloe4498": {
+        "teams": []
+    }
+}{
+    "erin7391": {
+        "teams": []
+    }
+}{
+    "sarah77471": {
+        "teams": []
+    }
+}{
+    "mokshayoga8424": {
+        "teams": []
+    }
+}{
+    "alice9365": {
+        "teams": []
+    }
+}{
+    "joanne7911": {
+        "teams": []
+    }
+}{
+    "global9214": {
+        "teams": []
+    }
+}{
+    "monique1880": {
+        "teams": []
+    }
+}{
+    "linnea4917": {
+        "teams": []
+    }
+}{
+    "timkarlacamjoeava2925": {
+        "teams": []
+    }
+}{
+    "ann9452": {
+        "teams": []
+    }
+}{
+    "ryan37195933": {
+        "teams": []
+    }
+}{
+    "robert9809": {
+        "teams": []
+    }
+}{
+    "eileen1230": {
+        "teams": []
+    }
+}{
+    "mohsin9132": {
+        "teams": []
+    }
+}{
+    "abu9957": {
+        "teams": []
+    }
+}{
+    "muhammed1260": {
+        "teams": []
+    }
+}{
+    "diane9319": {
+        "teams": []
+    }
+}{
+    "sheri1334": {
+        "teams": []
+    }
+}{
+    "jillian3187": {
+        "teams": []
+    }
+}{
+    "francois2892": {
+        "teams": []
+    }
+}{
+    "mndoow4556": {
+        "teams": []
+    }
+}{
+    "richa8337": {
+        "teams": []
+    }
+}{
+    "babar8324": {
+        "teams": []
+    }
+}{
+    "congratulations7619": {
+        "teams": []
+    }
+}{
+    "matthew5335": {
+        "teams": []
+    }
+}{
+    "jill3448": {
+        "teams": []
+    }
+}{
+    "corporate9118": {
+        "teams": []
+    }
+}{
+    "sasan1136": {
+        "teams": []
+    }
+}{
+    "alexis9817": {
+        "teams": [
+            {
+                "id": 12045,
+                "shortname": "ek_riley_investments",
+                "name": "E.K. Riley Investments",
+                "category": "Businesses",
+                "image": {
+                    "id": 855401,
+                    "template_id": 1
+                },
+                "whereabouts": "Seattle, Washington",
+                "loan_because": "",
+                "description": "",
+                "website_url": "www.ekriley.com",
+                "team_since": "2010-02-06T01:07:43Z",
+                "membership_type": "open",
+                "member_count": 13,
+                "loan_count": 47,
+                "loaned_amount": 1200
+            }
+        ]
+    }
+}{
+    "debby3175": {
+        "teams": []
+    }
+}{
+    "tamar2942": {
+        "teams": []
+    }
+}{
+    "faisal6794": {
+        "teams": []
+    }
+}{
+    "amy39391661": {
+        "teams": []
+    }
+}{
+    "jedubf": {
+        "teams": []
+    }
+}{
+    "glenn76092967": {
+        "teams": []
+    }
+}{
+    "sean89998741": {
+        "teams": []
+    }
+}{
+    "faye7116": {
+        "teams": []
+    }
+}{
+    "louise3814": {
+        "teams": []
+    }
+}{
+    "kamara7434": {
+        "teams": []
+    }
+}{
+    "lindsay1923": {
+        "teams": []
+    }
+}{
+    "steve6466": {
+        "teams": [
+            {
+                "id": 13197,
+                "shortname": "microlin",
+                "name": "micrOlin",
+                "category": "Colleges/Universities",
+                "image": {
+                    "id": 528520,
+                    "template_id": 1
+                },
+                "whereabouts": "Washington University in St. Louis",
+                "loan_because": "",
+                "description": "",
+                "website_url": "",
+                "team_since": "2010-04-21T17:53:54Z",
+                "membership_type": "open",
+                "member_count": 35,
+                "loan_count": 139,
+                "loaned_amount": 3475
+            }
+        ]
+    }
+}{
+    "sarah53396477": {
+        "teams": []
+    }
+}{
+    "ahmed6680": {
+        "teams": []
+    }
+}{
+    "robert4806": {
+        "teams": []
+    }
+}{
+    "alireza8410": {
+        "teams": []
+    }
+}{
+    "wayne3773": {
+        "teams": []
+    }
+}{
+    "spencer2627": {
+        "teams": []
+    }
+}{
+    "karen1500": {
+        "teams": []
+    }
+}{
+    "william3677": {
+        "teams": []
+    }
+}{
+    "congratulations5414": {
+        "teams": []
+    }
+}{
+    "soleiman7594": {
+        "teams": []
+    }
+}{
+    "susan85922398": {
+        "teams": []
+    }
+}{
+    "john38261998": {
+        "teams": []
+    }
+}{
+    "rebecca9450": {
+        "teams": [
+            {
+                "id": 94,
+                "shortname": "atheists",
+                "name": "Atheists, Agnostics, Skeptics, Freethinkers, Secular Humanists and the Non-Religious",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1401504,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "We care about human beings and understand that it takes people to help people.",
+                "description": "We are one human family, and we know that people can do good without believing in a god.\r\n\r\nThe Plus sign in the A+ Team logo reflects the fact that the team comprises Atheists, PLUS Agnostics, Skeptics, Freethinkers, Secular Humanists, and Non-Religious members.  A+ is also a symbol of excellence.\r\n\r\n***TEAM WEBSITE***\r\nhttp://apluskiva.wordpress.com/\r\n\r\n***TEAM RESOURCES***\r\nSecular Loans\r\nhttp://goo.gl/wtDkJ\r\n\r\nField Partners - Social and Secular Ratings:\r\nwww.tinyurl.com/AASFSHNR-MFIs\r\n\r\n***OTHER RESOURCES:***\r\nStarfish List:\r\nhttp://starfish.dynalias.org/\r\n\r\nKivaLens:\r\nhttp://www.kivalens.org/\r\n\r\nToolkit for analyzing Kiva data:\r\nhttp://build.kiva.org/",
+                "website_url": "http://apluskiva.wordpress.com/",
+                "team_since": "2008-08-29T03:40:31Z",
+                "membership_type": "open",
+                "member_count": 30460,
+                "loan_count": 611844,
+                "loaned_amount": 17856150
+            }
+        ]
+    }
+}{
+    "meghan5139": {
+        "teams": []
+    }
+}{
+    "daphne9394": {
+        "teams": []
+    }
+}{
+    "lavonia5011": {
+        "teams": []
+    }
+}{
+    "peter9946": {
+        "teams": []
+    }
+}{
+    "skye8030": {
+        "teams": []
+    }
+}{
+    "chris8784": {
+        "teams": []
+    }
+}{
+    "carrie1404": {
+        "teams": []
+    }
+}{
+    "danny4135": {
+        "teams": []
+    }
+}{
+    "ben2151": {
+        "teams": []
+    }
+}{
+    "olase2205": {
+        "teams": []
+    }
+}{
+    "sydney3622": {
+        "teams": []
+    }
+}{
+    "congratulations6525": {
+        "teams": []
+    }
+}{
+    "ilona2750": {
+        "teams": []
+    }
+}{
+    "hilary3564": {
+        "teams": []
+    }
+}{
+    "mikael3432": {
+        "teams": []
+    }
+}{
+    "lisa5979": {
+        "teams": []
+    }
+}{
+    "brad7444": {
+        "teams": []
+    }
+}{
+    "anjan4314": {
+        "teams": [
+            {
+                "id": 393,
+                "shortname": "cisco",
+                "name": "Cisco Systems",
+                "category": "Businesses - Internal Groups",
+                "image": {
+                    "id": 199405,
+                    "template_id": 1
+                },
+                "whereabouts": "Internet",
+                "loan_because": "empowering entrepreneurs in the developing world helps build local economies and creates a sustainable solution to poverty.",
+                "description": "We are building a team of social business entrepreneurs as defined by Professor Yunus here: http://muhammadyunus.org/content/view/56/83/lang,en/",
+                "team_since": "2008-09-02T15:55:19Z",
+                "membership_type": "open",
+                "member_count": 59,
+                "loan_count": 1105,
+                "loaned_amount": 35075
+            }
+        ]
+    }
+}{
+    "brian5511": {
+        "teams": []
+    }
+}{
+    "stephanie7792": {
+        "teams": []
+    }
+}{
+    "kirti9665": {
+        "teams": []
+    }
+}{
+    "kebba6708": {
+        "teams": []
+    }
+}{
+    "tom5623": {
+        "teams": []
+    }
+}{
+    "greg9997": {
+        "teams": []
+    }
+}{
+    "congratulations1802": {
+        "teams": []
+    }
+}{
+    "sam6840": {
+        "teams": []
+    }
+}{
+    "brenda5229": {
+        "teams": []
+    }
+}{
+    "gwen5639": {
+        "teams": []
+    }
+}{
+    "loua7567": {
+        "teams": []
+    }
+}{
+    "786786tariq5436": {
+        "teams": []
+    }
+}{
+    "james2858": {
+        "teams": []
+    }
+}{
+    "marilyn2368": {
+        "teams": []
+    }
+}{
+    "lori5577": {
+        "teams": [
+            {
+                "id": 283,
+                "shortname": "christians",
+                "name": "Kiva Christians",
+                "category": "Friends",
+                "image": {
+                    "id": 471653,
+                    "template_id": 1
+                },
+                "whereabouts": "Worldwide",
+                "loan_because": "Pure and undefiled religion before God the Father is this: to care for orphans and widows in their misfortune and to keep oneself unstained by the world. (Jam. 1:27) http://whoisjesus-really.com/\r\n\r\nLink to information regarding Christian partners       \r\nhttp://goo.gl/LU3hzz",
+                "description": "A group of believers in Jesus Christ, brought together through a common purpose: to help those in need around the world.    \r\n",
+                "website_url": "http://whoisjesus-really.com/",
+                "team_since": "2008-08-31T15:33:31Z",
+                "membership_type": "open",
+                "member_count": 14402,
+                "loan_count": 360780,
+                "loaned_amount": 14009275
+            }
+        ]
+    }
+}{
+    "rashid9695": {
+        "teams": []
+    }
+}{
+    "elizabeth6650": {
+        "teams": []
+    }
+}{
+    "abilgail5510": {
+        "teams": []
+    }
+}{
+    "adam3537": {
+        "teams": []
+    }
+}{
+    "andrea1487": {
+        "teams": []
+    }
+}{
+    "jennifer74746792": {
+        "teams": []
+    }
+}{
+    "solmaz7830": {
+        "teams": []
+    }
+}{
+    "dominique6758": {
+        "teams": []
+    }
+}{
+    "kim12966917": {
+        "teams": []
+    }
+}{
+    "nasheed6090": {
+        "teams": []
+    }
+}{
+    "daniel56795364": {
+        "teams": []
+    }
+}{
+    "christine8872": {
+        "teams": []
+    }
+}{
+    "lauri3994": {
+        "teams": []
+    }
+}{
+    "robert4023": {
+        "teams": [
+            {
+                "id": 94,
+                "shortname": "atheists",
+                "name": "Atheists, Agnostics, Skeptics, Freethinkers, Secular Humanists and the Non-Religious",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1401504,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "We care about human beings and understand that it takes people to help people.",
+                "description": "We are one human family, and we know that people can do good without believing in a god.\r\n\r\nThe Plus sign in the A+ Team logo reflects the fact that the team comprises Atheists, PLUS Agnostics, Skeptics, Freethinkers, Secular Humanists, and Non-Religious members.  A+ is also a symbol of excellence.\r\n\r\n***TEAM WEBSITE***\r\nhttp://apluskiva.wordpress.com/\r\n\r\n***TEAM RESOURCES***\r\nSecular Loans\r\nhttp://goo.gl/wtDkJ\r\n\r\nField Partners - Social and Secular Ratings:\r\nwww.tinyurl.com/AASFSHNR-MFIs\r\n\r\n***OTHER RESOURCES:***\r\nStarfish List:\r\nhttp://starfish.dynalias.org/\r\n\r\nKivaLens:\r\nhttp://www.kivalens.org/\r\n\r\nToolkit for analyzing Kiva data:\r\nhttp://build.kiva.org/",
+                "website_url": "http://apluskiva.wordpress.com/",
+                "team_since": "2008-08-29T03:40:31Z",
+                "membership_type": "open",
+                "member_count": 30460,
+                "loan_count": 611844,
+                "loaned_amount": 17856150
+            },
+            {
+                "id": 22,
+                "shortname": "poverty2prosperity",
+                "name": "Poverty2Prosperity.org - Poverty-Escape",
+                "category": "Businesses",
+                "image": {
+                    "id": 198853,
+                    "template_id": 1
+                },
+                "whereabouts": "San Francisco Bay Area CA",
+                "loan_because": "Poverty2Prosperity.org (P2P) is all about Poverty-Escape. Please join our fun team and put Poverty-Escape in the lead!  See how to get your I'm a Kiva Loaner Bracelet and more by participating on Team P2P - visit our web site for details!",
+                "description": "One of P2P's major poverty-escaping projects is to participate in making microloans through the Kiva platform. See the web site for details on all of our projects. Also see our Perpetual Fund lender account which allows people to designate funds for perpetual loaning here on Kiva, http://www.kiva.org/lender/P2PPerpetualFund\r\n\r\nWe have a special purpose fund to keep loans from expiring. Please join us at http://poverty2prosperity.org/sosloans to see currently funding loans from the SOS Loan fund.\r\n\r\nNOTE:  Poverty2Prosperity is also a non-profit, and any messages not related to Kiva or Poverty2Prosperity may be deleted.  If there is an idea you would like to share, contact one of the Team Captains to get permission.  Thank you for your consideration.",
+                "website_url": "http://Poverty2Prosperity.org",
+                "team_since": "2008-08-22T17:24:49Z",
+                "membership_type": "open",
+                "member_count": 3042,
+                "loan_count": 92106,
+                "loaned_amount": 2902200
+            },
+            {
+                "id": 473,
+                "shortname": "team_obama",
+                "name": "Team Obama",
+                "category": "Common Interest",
+                "image": {
+                    "id": 223412,
+                    "template_id": 1
+                },
+                "whereabouts": "Worldwide",
+                "loan_because": "We understand that our combined efforts through Kiva will help make this world a much better place!",
+                "description": "http://www.npr.org/templates/story/story.php?storyId=127545645",
+                "website_url": "http://www.cafepress.com/koy/6168009",
+                "team_since": "2008-09-04T13:36:53Z",
+                "membership_type": "open",
+                "member_count": 4820,
+                "loan_count": 81790,
+                "loaned_amount": 2308350
+            }
+        ]
+    }
+}{
+    "congratulations4621": {
+        "teams": []
+    }
+}{
+    "badlikeme": {
+        "teams": [
+            {
+                "id": 27522,
+                "shortname": "ogs_that_give_a_phuck",
+                "name": "OGs That Give a Phuck",
+                "category": "Other",
+                "whereabouts": "The Moon",
+                "loan_because": "We give a phuck.",
+                "description": "I don't like rules and I was going to join a pretty cool popular Team when I thought, they don't quite represent me, exactly. I like where their head is at but it just didn't fit an OG like me. I love Old School NWA and Ice-T. I can appreciate the genius of R. Kelly and I believe that climate change is old news. It's happening now. I love a good nature show and I'll slap the taste outta your mouth. I believe in hard work and opportunity. So long as you're not hurting anybody or yourself, I'm not gonna knock your hustle. That's a nod to The Porn Industry in case you're wondering. I believe that if you don't help someone, not talk about helping them, achieve their dreams you don't get to achieve yours.",
+                "website_url": "",
+                "team_since": "2013-08-04T04:13:30Z",
+                "membership_type": "open",
+                "member_count": 2,
+                "loan_count": 45,
+                "loaned_amount": 1125
+            }
+        ]
+    }
+}{
+    "luckydrop2960": {
+        "teams": []
+    }
+}{
+    "heather1606": {
+        "teams": []
+    }
+}{
+    "ben4091": {
+        "teams": []
+    }
+}{
+    "james9356": {
+        "teams": []
+    }
+}{
+    "kristen4002": {
+        "teams": []
+    }
+}{
+    "muhammadafzal4347": {
+        "teams": []
+    }
+}{
+    "holly6384": {
+        "teams": []
+    }
+}{
+    "allen2056": {
+        "teams": []
+    }
+}{
+    "douglas7376": {
+        "teams": []
+    }
+}{
+    "maricela4609": {
+        "teams": []
+    }
+}{
+    "thomas7214": {
+        "teams": []
+    }
+}{
+    "viktoria3072": {
+        "teams": []
+    }
+}{
+    "lucia2634": {
+        "teams": []
+    }
+}{
+    "sarah4351": {
+        "teams": []
+    }
+}{
+    "anne8017": {
+        "teams": []
+    }
+}{
+    "muhammad3333": {
+        "teams": []
+    }
+}{
+    "jake7584": {
+        "teams": []
+    }
+}{
+    "david9366": {
+        "teams": []
+    }
+}{
+    "per1001": {
+        "teams": []
+    }
+}{
+    "margo4196": {
+        "teams": []
+    }
+}{
+    "naser9082": {
+        "teams": []
+    }
+}{
+    "muhammad8873": {
+        "teams": []
+    }
+}{
+    "sarah2566": {
+        "teams": []
+    }
+}{
+    "mackenzie7296": {
+        "teams": []
+    }
+}{
+    "pamela62514382": {
+        "teams": []
+    }
+}{
+    "nick8963": {
+        "teams": []
+    }
+}{
+    "pat7630": {
+        "teams": []
+    }
+}{
+    "emily38824449": {
+        "teams": []
+    }
+}{
+    "lindsay1442": {
+        "teams": []
+    }
+}{
+    "amanda5058": {
+        "teams": []
+    }
+}{
+    "dan72165230": {
+        "teams": []
+    }
+}{
+    "richard1893": {
+        "teams": []
+    }
+}{
+    "skye2901": {
+        "teams": []
+    }
+}{
+    "jason9057": {
+        "teams": []
+    }
+}{
+    "charlotte4020": {
+        "teams": []
+    }
+}{
+    "luckydrop9061": {
+        "teams": []
+    }
+}{
+    "michael33912948": {
+        "teams": []
+    }
+}{
+    "lawrence1935": {
+        "teams": []
+    }
+}{
+    "esmaeil9550": {
+        "teams": []
+    }
+}{
+    "kiki7482": {
+        "teams": []
+    }
+}{
+    "erica3986": {
+        "teams": []
+    }
+}{
+    "kevin47874811": {
+        "teams": [
+            {
+                "id": 10002,
+                "shortname": "turning_pocket_change_into_real_change",
+                "name": "Turning Pocket Change into Real Change",
+                "category": "Friends",
+                "image": {
+                    "id": 591386,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "We can help make real change.",
+                "description": "We're a fun, generous, and slightly geeky group.",
+                "website_url": "",
+                "team_since": "2009-11-10T03:17:44Z",
+                "membership_type": "closed",
+                "member_count": 23,
+                "loan_count": 400,
+                "loaned_amount": 10200
+            }
+        ]
+    }
+}{
+    "ben6057": {
+        "teams": []
+    }
+}{
+    "glenn5553": {
+        "teams": []
+    }
+}{
+    "bryon6496": {
+        "teams": []
+    }
+}{
+    "marina1565": {
+        "teams": []
+    }
+}{
+    "amr3747": {
+        "teams": []
+    }
+}{
+    "christine69965846": {
+        "teams": []
+    }
+}{
+    "ramy6221": {
+        "teams": []
+    }
+}{
+    "breimer": {
+        "teams": [
+            {
+                "id": 283,
+                "shortname": "christians",
+                "name": "Kiva Christians",
+                "category": "Friends",
+                "image": {
+                    "id": 471653,
+                    "template_id": 1
+                },
+                "whereabouts": "Worldwide",
+                "loan_because": "Pure and undefiled religion before God the Father is this: to care for orphans and widows in their misfortune and to keep oneself unstained by the world. (Jam. 1:27) http://whoisjesus-really.com/\r\n\r\nLink to information regarding Christian partners       \r\nhttp://goo.gl/LU3hzz",
+                "description": "A group of believers in Jesus Christ, brought together through a common purpose: to help those in need around the world.    \r\n",
+                "website_url": "http://whoisjesus-really.com/",
+                "team_since": "2008-08-31T15:33:31Z",
+                "membership_type": "open",
+                "member_count": 14402,
+                "loan_count": 360780,
+                "loaned_amount": 14009275
+            },
+            {
+                "id": 260,
+                "shortname": "team_canada",
+                "name": "Team CANADA",
+                "category": "Local Area",
+                "image": {
+                    "id": 850245,
+                    "template_id": 1
+                },
+                "whereabouts": "Canada",
+                "loan_because": "So little means so much. And because we are so fortunate to be able to lend with the luxury of not worrying about whether we ever see that money again, while the clients borrow with the hope and determination that they will be able to repay, and improve their lives along the way.\r\n\r\nCheck out fundraising loans already being supported by Team Canada:\r\nhttp://www.kiva.org/team/team_canada/loans?status=fundRaising",
+                "description": "We're Canadian, eh?",
+                "website_url": "http://www.kiva.org/team/team_canada",
+                "team_since": "2008-08-31T06:17:49Z",
+                "membership_type": "open",
+                "member_count": 7234,
+                "loan_count": 150592,
+                "loaned_amount": 4737725
+            }
+        ]
+    }
+}{
+    "gilbert4979": {
+        "teams": []
+    }
+}{
+    "jennifer68287661": {
+        "teams": []
+    }
+}{
+    "joel6734": {
+        "teams": []
+    }
+}{
+    "emma1184": {
+        "teams": []
+    }
+}{
+    "patrick3642": {
+        "teams": []
+    }
+}{
+    "adm3560": {
+        "teams": []
+    }
+}{
+    "girija6650": {
+        "teams": []
+    }
+}{
+    "jeff6939": {
+        "teams": []
+    }
+}{
+    "shadi4199": {
+        "teams": [
+            {
+                "id": 94,
+                "shortname": "atheists",
+                "name": "Atheists, Agnostics, Skeptics, Freethinkers, Secular Humanists and the Non-Religious",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1401504,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "We care about human beings and understand that it takes people to help people.",
+                "description": "We are one human family, and we know that people can do good without believing in a god.\r\n\r\nThe Plus sign in the A+ Team logo reflects the fact that the team comprises Atheists, PLUS Agnostics, Skeptics, Freethinkers, Secular Humanists, and Non-Religious members.  A+ is also a symbol of excellence.\r\n\r\n***TEAM WEBSITE***\r\nhttp://apluskiva.wordpress.com/\r\n\r\n***TEAM RESOURCES***\r\nSecular Loans\r\nhttp://goo.gl/wtDkJ\r\n\r\nField Partners - Social and Secular Ratings:\r\nwww.tinyurl.com/AASFSHNR-MFIs\r\n\r\n***OTHER RESOURCES:***\r\nStarfish List:\r\nhttp://starfish.dynalias.org/\r\n\r\nKivaLens:\r\nhttp://www.kivalens.org/\r\n\r\nToolkit for analyzing Kiva data:\r\nhttp://build.kiva.org/",
+                "website_url": "http://apluskiva.wordpress.com/",
+                "team_since": "2008-08-29T03:40:31Z",
+                "membership_type": "open",
+                "member_count": 30460,
+                "loan_count": 611844,
+                "loaned_amount": 17856150
+            }
+        ]
+    }
+}{
+    "mark66719711": {
+        "teams": []
+    }
+}{
+    "jeremy11261774": {
+        "teams": []
+    }
+}{
+    "leslie1529": {
+        "teams": []
+    }
+}{
+    "lauren4104": {
+        "teams": []
+    }
+}{
+    "jessica53266488": {
+        "teams": []
+    }
+}{
+    "heather6280": {
+        "teams": []
+    }
+}{
+    "robert8426": {
+        "teams": []
+    }
+}{
+    "gqacad4624": {
+        "teams": []
+    }
+}{
+    "rob8395": {
+        "teams": []
+    }
+}{
+    "virginia7872": {
+        "teams": []
+    }
+}{
+    "isabelle8416": {
+        "teams": []
+    }
+}{
+    "jodi3413": {
+        "teams": []
+    }
+}{
+    "robert92994398": {
+        "teams": []
+    }
+}{
+    "jenny8825": {
+        "teams": []
+    }
+}{
+    "hesper4800": {
+        "teams": [
+            {
+                "id": 8135,
+                "shortname": "globalprivatefunding",
+                "name": "Team Global Private Funding",
+                "category": "Other",
+                "image": {
+                    "id": 362938,
+                    "template_id": 1
+                },
+                "whereabouts": "Worldwide",
+                "loan_because": "A small loan goes a long ways!\r\n\r\nIn most cases, it's harder to find a lender for $100.00 than finding a lender who will lend a $1,000,000.00. It almost always is that person who is looking to borrow a $100.00 that needs it the most. It's a matter of survival to a family. We do what we do so that others may prosper.\r\n\r\n\"How many lives have you touched today?\" Sam Francis Senev, Chairman & CEO\r\n\r\nGlobal Private Funding, ‘a perfect marriage between dollars and good sense’",
+                "description": "Lenders who seek to expand their reach globally without consideration for boundaries that are physical, social and racial. Just because it feels good! We are those who are hand on and not just lending from the comforts of our homes and offices. Join us and make a difference.",
+                "website_url": "http://www.globalprivatefunding.com/global_private_funding_about_us_change_the_world.php",
+                "team_since": "2009-08-02T22:49:42Z",
+                "membership_type": "open",
+                "member_count": 20,
+                "loan_count": 275,
+                "loaned_amount": 6925
+            }
+        ]
+    }
+}{
+    "katie2669": {
+        "teams": []
+    }
+}{
+    "autumn6375": {
+        "teams": []
+    }
+}{
+    "frans8084": {
+        "teams": []
+    }
+}{
+    "kim7737": {
+        "teams": []
+    }
+}{
+    "kevin6240": {
+        "teams": []
+    }
+}{
+    "joan5825": {
+        "teams": [
+            {
+                "id": 7891,
+                "shortname": "women_in_hats",
+                "name": "Women In Hats!",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1047141,
+                    "template_id": 1
+                },
+                "whereabouts": "Under the Sun",
+                "loan_because": "Hats need company.",
+                "description": "We like women in hats, caps, scarves, veils, crowns, beanies – you name it!  (We like men wearing that stuff too! :-)",
+                "website_url": "http://www.kivafriends.org/index.php/topic,4049.msg63592.html#msg63592",
+                "team_since": "2009-07-19T03:10:36Z",
+                "membership_type": "open",
+                "member_count": 84,
+                "loan_count": 1894,
+                "loaned_amount": 50975
+            }
+        ]
+    }
+}{
+    "carol9292": {
+        "teams": []
+    }
+}{
+    "hector6592": {
+        "teams": []
+    }
+}{
+    "danielle9064": {
+        "teams": []
+    }
+}{
+    "marian3276": {
+        "teams": []
+    }
+}{
+    "eric8143": {
+        "teams": []
+    }
+}{
+    "james8578": {
+        "teams": []
+    }
+}{
+    "kyle5160": {
+        "teams": []
+    }
+}{
+    "erfan1965": {
+        "teams": []
+    }
+}{
+    "ashleigh7435": {
+        "teams": []
+    }
+}{
+    "junior6383": {
+        "teams": []
+    }
+}{
+    "janet5609": {
+        "teams": []
+    }
+}{
+    "lyndsay8138": {
+        "teams": []
+    }
+}{
+    "ali5272": {
+        "teams": []
+    }
+}{
+    "tanya8490": {
+        "teams": []
+    }
+}{
+    "kathi6303": {
+        "teams": []
+    }
+}{
+    "gordon3582": {
+        "teams": []
+    }
+}{
+    "valerie1172": {
+        "teams": []
+    }
+}{
+    "kristen8495": {
+        "teams": [
+            {
+                "id": 9325,
+                "shortname": "stuffyoushouldknow",
+                "name": "Stuff You Should Know from HowStuffWorks.com",
+                "category": "Friends",
+                "image": {
+                    "id": 401562,
+                    "template_id": 1
+                },
+                "whereabouts": "Atlanta, GA",
+                "loan_because": "We care. ",
+                "description": "Arguably the finest assemblage of people who have never met dedicated to the common purpose of hastening global peace in $25 increments. ",
+                "website_url": "http://www.youtube.com/watch?v=gj1IJ4RxFMU",
+                "team_since": "2009-10-06T19:23:45Z",
+                "membership_type": "open",
+                "member_count": 8119,
+                "loan_count": 101376,
+                "loaned_amount": 2788775
+            }
+        ]
+    }
+}{
+    "gil4328": {
+        "teams": [
+            {
+                "id": 12018,
+                "shortname": "slam",
+                "name": "SLAM",
+                "category": "Businesses",
+                "image": {
+                    "id": 482791,
+                    "template_id": 1
+                },
+                "whereabouts": "Toronto and beyond",
+                "loan_because": "We have all needed a helping hand at some point in our lives.  We all have dreams.  Our community is full of powerful energy and we want to help change lives.",
+                "description": "Slam is creative group of people.  We are both artists and those who appreciate art in all it's many forms.   ",
+                "website_url": "http://suzannelindsayartistmanagement.com",
+                "team_since": "2010-02-03T21:45:45Z",
+                "membership_type": "open",
+                "member_count": 9,
+                "loan_count": 66,
+                "loaned_amount": 1850
+            }
+        ]
+    }
+}{
+    "harjeet9698": {
+        "teams": []
+    }
+}{
+    "lynn8807": {
+        "teams": []
+    }
+}{
+    "robert7622": {
+        "teams": []
+    }
+}{
+    "sanaz1908": {
+        "teams": []
+    }
+}{
+    "joshandlizz7611": {
+        "teams": []
+    }
+}{
+    "liinda9042": {
+        "teams": []
+    }
+}{
+    "susan7962": {
+        "teams": []
+    }
+}{
+    "gail7507": {
+        "teams": []
+    }
+}{
+    "bradford3105": {
+        "teams": []
+    }
+}{
+    "stina7012": {
+        "teams": []
+    }
+}{
+    "babar3633": {
+        "teams": []
+    }
+}{
+    "diane8512": {
+        "teams": []
+    }
+}{
+    "feliciano5308": {
+        "teams": []
+    }
+}{
+    "audreywilliam4550": {
+        "teams": []
+    }
+}{
+    "pete5068": {
+        "teams": []
+    }
+}{
+    "melissa64901352": {
+        "teams": []
+    }
+}{
+    "corey1538": {
+        "teams": []
+    }
+}{
+    "kathleen1605": {
+        "teams": []
+    }
+}{
+    "yael9159": {
+        "teams": []
+    }
+}{
+    "sweet2828": {
+        "teams": []
+    }
+}{
+    "stephen5356": {
+        "teams": []
+    }
+}{
+    "warren8753": {
+        "teams": []
+    }
+}{
+    "cinzia6388": {
+        "teams": []
+    }
+}{
+    "jonpet": {
+        "teams": [
+            {
+                "id": 16881,
+                "shortname": "nansen",
+                "name": "Nansen",
+                "category": "Businesses",
+                "image": {
+                    "id": 1257910,
+                    "template_id": 1
+                },
+                "whereabouts": "SWEDEN",
+                "loan_because": "Global changes starts with local actions",
+                "description": "Nansen is a digital agency based in Stockholm, London, Chicago, New York and Washington D.C\r\n\r\n",
+                "website_url": "www.nansen.com",
+                "team_since": "2010-12-20T15:19:37Z",
+                "membership_type": "open",
+                "member_count": 57,
+                "loan_count": 693,
+                "loaned_amount": 24575
+            }
+        ]
+    }
+}{
+    "charles3299": {
+        "teams": []
+    }
+}{
+    "erika92811205": {
+        "teams": [
+            {
+                "id": 10220,
+                "shortname": "lesley_university_supports_kiva",
+                "name": "Lesley University Supports KIVA!",
+                "category": "Colleges/Universities",
+                "image": {
+                    "id": 432195,
+                    "template_id": 1
+                },
+                "whereabouts": "Cambridge, MA",
+                "loan_because": "We believe in KIVA's innovative mission. We offer our support in hopes that the future brings a positive global community in which all businesses are as socially-minded as KIVA.",
+                "description": "Impassioned and determined students taking steps towards lasting social change.",
+                "website_url": "www.lesley.edu",
+                "team_since": "2009-11-21T18:01:22Z",
+                "membership_type": "open",
+                "member_count": 7,
+                "loan_count": 8,
+                "loaned_amount": 200
+            }
+        ]
+    }
+}{
+    "josephine1723": {
+        "teams": []
+    }
+}{
+    "embot7746": {
+        "teams": []
+    }
+}{
+    "lou6169": {
+        "teams": []
+    }
+}{
+    "paul90246061": {
+        "teams": []
+    }
+}{
+    "claude7979": {
+        "teams": [
+            {
+                "id": 1790,
+                "shortname": "liberty",
+                "name": "Libertarian Team",
+                "category": "Common Interest",
+                "image": {
+                    "id": 413658,
+                    "template_id": 1
+                },
+                "whereabouts": "The World",
+                "loan_because": "As libertarians, we favor voluntary charity over government force to bring about positive change.",
+                "description": "The libertarian philosophy is one of personal and economic freedom.  We advocate charity and free-markets over government coercion and force.",
+                "website_url": "http://matt.drollette.com/libertarian-kiva-team/",
+                "team_since": "2008-10-07T01:20:57Z",
+                "membership_type": "open",
+                "member_count": 304,
+                "loan_count": 7103,
+                "loaned_amount": 199100
+            }
+        ]
+    }
+}{
+    "danette1454": {
+        "teams": []
+    }
+}{
+    "wade9851": {
+        "teams": []
+    }
+}{
+    "sydney4691": {
+        "teams": []
+    }
+}{
+    "douglas3386": {
+        "teams": []
+    }
+}{
+    "peter5321": {
+        "teams": []
+    }
+}{
+    "andrea1969": {
+        "teams": []
+    }
+}{
+    "jesse8962": {
+        "teams": []
+    }
+}{
+    "john50274508": {
+        "teams": []
+    }
+}{
+    "katrin2771": {
+        "teams": []
+    }
+}{
+    "david80667106": {
+        "teams": []
+    }
+}{
+    "marymarv2807": {
+        "teams": []
+    }
+}{
+    "beth7911": {
+        "teams": []
+    }
+}{
+    "sara4020": {
+        "teams": []
+    }
+}{
+    "levi6029": {
+        "teams": [
+            {
+                "id": 2738,
+                "shortname": "trucsters",
+                "name": "Trucsters",
+                "category": "Families",
+                "image": {
+                    "id": 227308,
+                    "template_id": 1
+                },
+                "whereabouts": "USA",
+                "loan_because": "We have abundance.",
+                "description": "Team that appreciates the value of family.",
+                "website_url": "",
+                "team_since": "2008-11-17T20:25:32Z",
+                "membership_type": "closed",
+                "member_count": 8,
+                "loan_count": 244,
+                "loaned_amount": 7125
+            }
+        ]
+    }
+}{
+    "bryan3792": {
+        "teams": []
+    }
+}{
+    "sheila3231": {
+        "teams": []
+    }
+}{
+    "sally3408": {
+        "teams": []
+    }
+}{
+    "bryant2652": {
+        "teams": []
+    }
+}{
+    "mohammad3596": {
+        "teams": []
+    }
+}{
+    "kim1226": {
+        "teams": []
+    }
+}{
+    "award2187": {
+        "teams": []
+    }
+}{
+    "abdulla9379": {
+        "teams": []
+    }
+}{
+    "becky6745": {
+        "teams": []
+    }
+}{
+    "award9855": {
+        "teams": []
+    }
+}{
+    "laurie51499479": {
+        "teams": []
+    }
+}{
+    "pamela2381": {
+        "teams": []
+    }
+}{
+    "jerry5614": {
+        "teams": []
+    }
+}{
+    "saeed6067": {
+        "teams": []
+    }
+}{
+    "mojsan": {
+        "teams": []
+    }
+}{
+    "erin8614": {
+        "teams": [
+            {
+                "id": 2738,
+                "shortname": "trucsters",
+                "name": "Trucsters",
+                "category": "Families",
+                "image": {
+                    "id": 227308,
+                    "template_id": 1
+                },
+                "whereabouts": "USA",
+                "loan_because": "We have abundance.",
+                "description": "Team that appreciates the value of family.",
+                "website_url": "",
+                "team_since": "2008-11-17T20:25:32Z",
+                "membership_type": "closed",
+                "member_count": 8,
+                "loan_count": 244,
+                "loaned_amount": 7125
+            }
+        ]
+    }
+}{
+    "kimberly5760": {
+        "teams": []
+    }
+}{
+    "jamie4123": {
+        "teams": []
+    }
+}{
+    "mitch2508": {
+        "teams": []
+    }
+}{
+    "thomas3132": {
+        "teams": []
+    }
+}{
+    "becca3458": {
+        "teams": []
+    }
+}{
+    "leeanne8488": {
+        "teams": []
+    }
+}{
+    "karlin1439": {
+        "teams": []
+    }
+}{
+    "award9211": {
+        "teams": []
+    }
+}{
+    "jolanda2975": {
+        "teams": []
+    }
+}{
+    "ashely3614": {
+        "teams": []
+    }
+}{
+    "lizabeth5238": {
+        "teams": []
+    }
+}{
+    "michele3281": {
+        "teams": []
+    }
+}{
+    "heather8994": {
+        "teams": []
+    }
+}{
+    "karen4298": {
+        "teams": []
+    }
+}{
+    "conrad5690": {
+        "teams": []
+    }
+}{
+    "michael29808090": {
+        "teams": []
+    }
+}{
+    "jenna3734": {
+        "teams": []
+    }
+}{
+    "dennisandsharon8506": {
+        "teams": []
+    }
+}{
+    "gretchen5636": {
+        "teams": []
+    }
+}{
+    "evan8096": {
+        "teams": []
+    }
+}{
+    "award5670": {
+        "teams": []
+    }
+}{
+    "zahid8114": {
+        "teams": []
+    }
+}{
+    "adam3985": {
+        "teams": [
+            {
+                "id": 94,
+                "shortname": "atheists",
+                "name": "Atheists, Agnostics, Skeptics, Freethinkers, Secular Humanists and the Non-Religious",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1401504,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "We care about human beings and understand that it takes people to help people.",
+                "description": "We are one human family, and we know that people can do good without believing in a god.\r\n\r\nThe Plus sign in the A+ Team logo reflects the fact that the team comprises Atheists, PLUS Agnostics, Skeptics, Freethinkers, Secular Humanists, and Non-Religious members.  A+ is also a symbol of excellence.\r\n\r\n***TEAM WEBSITE***\r\nhttp://apluskiva.wordpress.com/\r\n\r\n***TEAM RESOURCES***\r\nSecular Loans\r\nhttp://goo.gl/wtDkJ\r\n\r\nField Partners - Social and Secular Ratings:\r\nwww.tinyurl.com/AASFSHNR-MFIs\r\n\r\n***OTHER RESOURCES:***\r\nStarfish List:\r\nhttp://starfish.dynalias.org/\r\n\r\nKivaLens:\r\nhttp://www.kivalens.org/\r\n\r\nToolkit for analyzing Kiva data:\r\nhttp://build.kiva.org/",
+                "website_url": "http://apluskiva.wordpress.com/",
+                "team_since": "2008-08-29T03:40:31Z",
+                "membership_type": "open",
+                "member_count": 30460,
+                "loan_count": 611844,
+                "loaned_amount": 17856150
+            }
+        ]
+    }
+}{
+    "jacoborange": {
+        "teams": [
+            {
+                "id": 94,
+                "shortname": "atheists",
+                "name": "Atheists, Agnostics, Skeptics, Freethinkers, Secular Humanists and the Non-Religious",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1401504,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "We care about human beings and understand that it takes people to help people.",
+                "description": "We are one human family, and we know that people can do good without believing in a god.\r\n\r\nThe Plus sign in the A+ Team logo reflects the fact that the team comprises Atheists, PLUS Agnostics, Skeptics, Freethinkers, Secular Humanists, and Non-Religious members.  A+ is also a symbol of excellence.\r\n\r\n***TEAM WEBSITE***\r\nhttp://apluskiva.wordpress.com/\r\n\r\n***TEAM RESOURCES***\r\nSecular Loans\r\nhttp://goo.gl/wtDkJ\r\n\r\nField Partners - Social and Secular Ratings:\r\nwww.tinyurl.com/AASFSHNR-MFIs\r\n\r\n***OTHER RESOURCES:***\r\nStarfish List:\r\nhttp://starfish.dynalias.org/\r\n\r\nKivaLens:\r\nhttp://www.kivalens.org/\r\n\r\nToolkit for analyzing Kiva data:\r\nhttp://build.kiva.org/",
+                "website_url": "http://apluskiva.wordpress.com/",
+                "team_since": "2008-08-29T03:40:31Z",
+                "membership_type": "open",
+                "member_count": 30460,
+                "loan_count": 611844,
+                "loaned_amount": 17856150
+            }
+        ]
+    }
+}{
+    "russ1567": {
+        "teams": []
+    }
+}{
+    "govert2695": {
+        "teams": []
+    }
+}{
+    "katie4596": {
+        "teams": []
+    }
+}{
+    "barb9188": {
+        "teams": []
+    }
+}{
+    "joy4100": {
+        "teams": []
+    }
+}{
+    "rebecca27264598": {
+        "teams": []
+    }
+}{
+    "emma5609": {
+        "teams": []
+    }
+}{
+    "daryl8133": {
+        "teams": []
+    }
+}{
+    "jennifer64313943": {
+        "teams": [
+            {
+                "id": 12969,
+                "shortname": "green_partnerships",
+                "name": "Green Partnerships",
+                "category": "Common Interest",
+                "image": {
+                    "id": 730034,
+                    "template_id": 1
+                },
+                "whereabouts": "Global",
+                "loan_because": "We want to help create more sustainable and equitable communities all around the world.",
+                "description": "We lend to individuals and groups engaged in businesses and services that help them earn a living but also help to protect the environment in their part of the world. We also strive to build green partnerships in our own communities by supporting the women and men who provide businesses, services, and products that benefit people and the Earth. \r\n\r\nSome of our team members mainly fund green loans, while others choose to designate a fraction of their loans to green enterprises. These are examples of just some of the loans Green Partnerships has helped to fund:\r\n\r\nabaca              www.kiva.org/lend/479304 \r\nbees and beehives   www.kiva.org/lend/416522 \r\nbicycle repair   www.kiva.org/lend/422950 \r\nbicycle sales   www.kiva.org/lend/434305\r\nbiodigesters www.kiva.org/lend/486001  \r\nbus transportation   www.kiva.org/lend/441833\r\neco-friendly products   www.kiva.org/lend/369833 \r\nelectric vehicles    www.kiva.org/lend/475485\r\nelectronics repair   www.kiva.org/lend/451383\r\nenergy efficient products   www.kiva.org/lend/431717\r\nFair Trade (sustainably grown) coffee  www.kiva.org/lend/459274  \r\nfarm tools & equipment   www.kiva.org/lend/405404 \r\nflowers   www.kiva.org/lend/355897 \r\nfuel-efficient cookstoves www.kiva.org/lend/533728 \r\ninsulation   www.kiva.org/lend/422895 \r\nmanure & other natural fertilizers   www.kiva.org/lend/425938\r\nnatural medicines from native plants     www.kiva.org/lend/484068 \r\nnipa roofing businesses www.kiva.org/lend/793052\r\norganic farms or gardens   www.kiva.org/lend/389681 \r\norganic food www.kiva.org/lend/489520\r\norganic seeds   www.kiva.org/lend/431157 \r\nrecycling   www.kiva.org/lend/443724 \r\nrecycling tools   www.kiva.org/lend/419761\r\nsanitation www.kiva.org/lend/475282 \r\nscrap metal   www.kiva.org/lend/405683 \r\nscrap wood   www.kiva.org/lend/476241\r\nshoe repair   www.kiva.org/lend/413675 \r\nsolar lanterns or lamps   www.kiva.org/lend/451508\r\nsolar lighting kits (distribution)   www.kiva.org/lend/426323\r\nsolar panels (leasing)   www.kiva.org/lend/426140\r\nsolar panels (home or business installations)   www.kiva.org/lend/358310\r\nspare parts (bicycles)   www.kiva.org/lend/422456\r\nspare parts (other)   www.kiva.org/lend/421554 \r\ntailoring   www.kiva.org/lend/398446 \r\ntree seedlings   www.kiva.org/lend/424330 \r\nused clothing   www.kiva.org/lend/424287\r\nused furniture   www.kiva.org/lend/464084 \r\nused shoes   www.kiva.org/lend/449579\r\nwater tanks   www.kiva.org/lend/523269 \r\n\r\nMany Kiva Field Partners offer one or more kinds of green loans including, but not limited to: \r\n\r\nACCIONA Microenergía México www.kiva.org/partners/370\r\nAfrican Solar Rise  www.kiva.org/partners/309\r\nBarefoot Power  www.kiva.org/partners/212  \r\nBrazAfric  www.kiva.org/partners/213\r\nCredit Mongol www.kiva.org/partners/42\r\nEarthSpark International   www.kiva.org/partners/260\r\nEcoblock International www.kiva.org/partners/301\r\nEcoZoom www.kiva.org/partners/341  \r\nEmerging Cooking Solutions Zambia Ltd. www.kiva.org/partners/417\r\nEthic Capital www.kiva.org/partners/430  \r\nEvidence Action www.kiva.org/partners/324\r\nFederación Campesina del Cauca www.kiva.org/partners/330  \r\nFenix International www.kiva.org/partners/214 \r\nFledge www.kiva.org/partners/350 \r\nFUNDECOCA  www.kiva.org/partners/270    \r\nGrameen Foundation AppLab  www.kiva.org/partners/259  \r\nHoney Care Africa   www.kiva.org/partners/277  \r\nIluMexico  www.kiva.org/partners/275\r\nIMON International www.kiva.org/partners/100\r\nIndigenous Designs www.kiva.org/partners/353\r\niSmart Kenya www.kiva.org/partners/322\r\nIzdiharona for Economic Development www.kiva.org/partners/321 \r\nKamworks www.kiva.org/partners/407\r\nKopernik www.kiva.org/partners/304 \r\nMaya Mountain Cacao  www.kiva.org/partners/273 \r\nMicrofinanzas Prisma  www.kiva.org/partners/71\r\nNOTS Lampe Solaire www.kiva.org/partners/332  \r\nNuru Energy   www.kiva.org/partners//271  \r\nOne Degree Solar  www.kiva.org/partners/276\r\nPaglaum Multi-Purpose Cooperative (PMPC) www.kiva.org/partners/126 \r\nParadigm Project www.kiva.org/partners/286 \r\nPowerGen www.kiva.org/partners/340 \r\nSanergy   www.kiva.org/partners/258 \r\nSistema Biobolsa  www.kiva.org/partners/226  \r\nSjedi Green Energy www.kiva.org/partners/364\r\nSolar Sister    www.kiva.org/partners/255\r\nSoluz Honduras www.kiva.org/partners/390\r\nStoveTeam International www.kiva.org/partners/335 \r\nTanzania Human Development Foundation www.kiva.org/partners/323 \r\nTECNOSOL www.kiva.org/partners/279 \r\nTerraClear Development www.kiva.org/partners/393\r\nUnion Regional de Huatusco   www.kiva.org/partners/224\r\nVillage Infrastructure www.kiva.org/partners/307  \r\nVisionary Empowerment Program  www.kiva.org/partners/257  \r\nXac Bank  www.kiva.org/partners/116 \r\nYayasan Rumah Energi www.kiva.org/lend/771786\r\nYellow Leaf Hammocks   www.kiva.org/partners/274   \r\nYunus Social Business www.kiva.org/partners/315 \r\n   \r\n \r\n",
+                "website_url": "",
+                "team_since": "2010-04-06T11:32:41Z",
+                "membership_type": "open",
+                "member_count": 951,
+                "loan_count": 16458,
+                "loaned_amount": 446750
+            }
+        ]
+    }
+}{
+    "jacqueline1171": {
+        "teams": []
+    }
+}{
+    "lavonne5519": {
+        "teams": []
+    }
+}{
+    "josh8573": {
+        "teams": []
+    }
+}{
+    "nikhil5292": {
+        "teams": []
+    }
+}{
+    "bob7986": {
+        "teams": []
+    }
+}{
+    "kristin6076": {
+        "teams": []
+    }
+}{
+    "sandeep9757": {
+        "teams": []
+    }
+}{
+    "alison1470": {
+        "teams": []
+    }
+}{
+    "wayne3828": {
+        "teams": []
+    }
+}{
+    "jan7713": {
+        "teams": []
+    }
+}{
+    "jennifer9192": {
+        "teams": []
+    }
+}{
+    "michelle2529": {
+        "teams": []
+    }
+}{
+    "stephanie4777": {
+        "teams": [
+            {
+                "id": 12624,
+                "shortname": "fatmoon_studios",
+                "name": "Fatmoon Studios",
+                "category": "Common Interest",
+                "image": {
+                    "id": 507108,
+                    "template_id": 1
+                },
+                "whereabouts": "Sydney and rural NSW",
+                "loan_because": "We're left of centre, free-range, creative types who want to support others to earn an income to do the same.",
+                "description": "A motley assortment of artists, film-makers, writers, creative thinkers who want to change the world or at least the wallpaper.",
+                "website_url": "http://fatmoon.com.au/",
+                "team_since": "2010-03-16T04:35:02Z",
+                "membership_type": "open",
+                "member_count": 4,
+                "loan_count": 11,
+                "loaned_amount": 275
+            }
+        ]
+    }
+}{
+    "ramy4226": {
+        "teams": []
+    }
+}{
+    "timi6411": {
+        "teams": []
+    }
+}{
+    "chris1629": {
+        "teams": []
+    }
+}{
+    "kellen3538": {
+        "teams": []
+    }
+}{
+    "gail7194": {
+        "teams": []
+    }
+}{
+    "kevin6953": {
+        "teams": []
+    }
+}{
+    "mark58609263": {
+        "teams": []
+    }
+}{
+    "roberta8653": {
+        "teams": []
+    }
+}{
+    "joseph5057": {
+        "teams": []
+    }
+}{
+    "kara3163": {
+        "teams": []
+    }
+}{
+    "amy85796729": {
+        "teams": [
+            {
+                "id": 6392,
+                "shortname": "team_bee_folks",
+                "name": "Team Bee Folks",
+                "category": "Businesses",
+                "image": {
+                    "id": 309998,
+                    "template_id": 1
+                },
+                "whereabouts": "Mount Airy, MD",
+                "loan_because": "The Bee Folks started as a hobby with a $400 microloan.  We have grown such that we now sell somewhere around 20,000 pounds of honey a year, plus our own line of beauty products.  All this started because one person believed in us.... ",
+                "description": "The Bee Folks is a family-oriented beekeeping business, specializing in single floral source honeys.  Our customers span the globe.  We hope Team Bee Folks will present a community for our customers and staff to provide opportunities to other enterprising families.",
+                "website_url": "www.beefolks.com",
+                "team_since": "2009-04-24T15:03:11Z",
+                "membership_type": "open",
+                "member_count": 17,
+                "loan_count": 194,
+                "loaned_amount": 5500
+            },
+            {
+                "id": 6903,
+                "shortname": "endangered_beekeepers",
+                "name": "Endangered Beekeepers",
+                "category": "Friends",
+                "image": {
+                    "id": 483624,
+                    "template_id": 1
+                },
+                "whereabouts": "All over the world",
+                "loan_because": "\"We ought to do good to others as simply as a horse runs, or a bee makes honey, or a vine bears grapes season after season without thinking of the grapes it has borne.\"  -Marcus Aurelius",
+                "description": "We support honeybees, their keepers, and all who toil season after season to do good for the human hive.   Our team photo is of Carmen, a Peruvian beekeeper and Kiva loan recipient.",
+                "website_url": "",
+                "team_since": "2009-05-25T20:00:04Z",
+                "membership_type": "open",
+                "member_count": 266,
+                "loan_count": 3011,
+                "loaned_amount": 79225
+            },
+            {
+                "id": 26431,
+                "shortname": "microforesty__plant_trees_to_fight_poverty",
+                "name": "Microforesty - Plant Trees to Fight Poverty!",
+                "category": "Field Partner Fans",
+                "image": {
+                    "id": 1316108,
+                    "template_id": 1
+                },
+                "whereabouts": "Kilifi, Kenya",
+                "loan_because": "There is a link between poverty and environmental degradation.  To fight poverty, we must find sustainable solutions.",
+                "description": "We are supporters of Komaza and microforesty!! Plant trees to fight poverty and deforestation in coastal Kenya!",
+                "website_url": "",
+                "team_since": "2013-03-19T07:29:39Z",
+                "membership_type": "open",
+                "member_count": 27,
+                "loan_count": 55,
+                "loaned_amount": 1575
+            },
+            {
+                "id": 26598,
+                "shortname": "team_sanergy_sanitation_for_all",
+                "name": "Team Sanergy: Sanitation for All",
+                "category": "Field Partner Fans",
+                "image": {
+                    "id": 1330014,
+                    "template_id": 1
+                },
+                "whereabouts": "Nairobi, Kenya",
+                "loan_because": "2.6 billion people, or 40% of the world, lack access to basic sanitation. The resulting disease causes nearly 2 million deaths, 10% of the global disease burden, and $84 billion in worker productivity loss each year. The high population density combined with the lack of infrastructure and resources makes the problem particularly acute in slums, where populations will double to 2 billion by 2030. Kenya is at the epicenter of this crisis with 10 million people living in slums, 80% of whom lack access to basic sanitation.",
+                "description": "Members of Team Sanergy: Sanitation for All enjoy seeing Sanergy's Fresh Life Operators receive loans for, and operate their Fresh Life Toilet businesses in Kenya.\r\n\r\nSanergy promotes the fundamental human right to sanitation in the slums of Kenya by increasing access to and usage of hygienic sanitation facilities. Sanergy creates an efficient, equitable, and sustainable sanitation cycle by building a dense network of small-scale sanitation centers across the slums, a low-cost containerized waste collection infrastructure, and converting this waste at a central processing facility into electricity, fertilizer, and other high-margin products.\r\n\r\nSanergy is an official Kiva field partner.",
+                "website_url": "http://www.saner.gy",
+                "team_since": "2013-04-10T19:25:12Z",
+                "membership_type": "open",
+                "member_count": 39,
+                "loan_count": 156,
+                "loaned_amount": 5675
+            },
+            {
+                "id": 10906,
+                "shortname": "juhudi_kilimo",
+                "name": "Friends of Juhudi Kilimo",
+                "category": "Field Partner Fans",
+                "image": {
+                    "id": 688414,
+                    "template_id": 1
+                },
+                "whereabouts": "Nairobi, Kenya",
+                "loan_because": "Juhudi is changing the way farmers do business.",
+                "description": "",
+                "website_url": "",
+                "team_since": "2009-12-17T13:06:52Z",
+                "membership_type": "open",
+                "member_count": 70,
+                "loan_count": 622,
+                "loaned_amount": 16325
+            },
+            {
+                "id": 7280,
+                "shortname": "bobharrisdotcom",
+                "name": "Friends of Bob Harris",
+                "category": "Common Interest",
+                "image": {
+                    "id": 361025,
+                    "template_id": 1
+                },
+                "whereabouts": "All over",
+                "loan_because": "After stumbling into a job as a luxury travel writer, I saw so much poverty that I decided to turn those paychecks into Kiva loans. Then I visited a bunch of clients, who were amazing, and I've written a book about it called \"The International Bank of Bob\" (Walker/Bloomsbury, March 5, 2013).\r\n\r\nI hope the book will get more people to feel a greater understanding of Kiva, a better appreciation of the role of microfinance, and most of all, more connected to the rest of the world.\r\n",
+                "description": "People who realize that if we switched places with the recipients, they'd loan to us just as happily.  So, fair's fair.",
+                "website_url": "http://www.bank-of-bob.com",
+                "team_since": "2009-06-16T17:07:58Z",
+                "membership_type": "closed",
+                "member_count": 1734,
+                "loan_count": 164279,
+                "loaned_amount": 5500250
+            }
+        ]
+    }
+}{
+    "christian9990": {
+        "teams": []
+    }
+}{
+    "dixie3755": {
+        "teams": [
+            {
+                "id": 12045,
+                "shortname": "ek_riley_investments",
+                "name": "E.K. Riley Investments",
+                "category": "Businesses",
+                "image": {
+                    "id": 855401,
+                    "template_id": 1
+                },
+                "whereabouts": "Seattle, Washington",
+                "loan_because": "",
+                "description": "",
+                "website_url": "www.ekriley.com",
+                "team_since": "2010-02-06T01:07:43Z",
+                "membership_type": "open",
+                "member_count": 13,
+                "loan_count": 47,
+                "loaned_amount": 1200
+            }
+        ]
+    }
+}{
+    "erin2728": {
+        "teams": []
+    }
+}{
+    "barbara15151790": {
+        "teams": []
+    }
+}{
+    "taylorkaitlin6620": {
+        "teams": []
+    }
+}{
+    "evelien6467": {
+        "teams": []
+    }
+}{
+    "josten8277": {
+        "teams": []
+    }
+}{
+    "kerry3689": {
+        "teams": []
+    }
+}{
+    "keon4694": {
+        "teams": []
+    }
+}{
+    "holly1313": {
+        "teams": []
+    }
+}{
+    "cyndi8735": {
+        "teams": []
+    }
+}{
+    "ron1503": {
+        "teams": []
+    }
+}{
+    "dariosh9768": {
+        "teams": []
+    }
+}{
+    "dianna5678": {
+        "teams": []
+    }
+}{
+    "michael75576191": {
+        "teams": []
+    }
+}{
+    "davide6453": {
+        "teams": []
+    }
+}{
+    "keith9769": {
+        "teams": []
+    }
+}{
+    "kjersten9526": {
+        "teams": []
+    }
+}{
+    "tuomas4907": {
+        "teams": [
+            {
+                "id": 16976,
+                "shortname": "vekkuli",
+                "name": "Team Vekkuli Vatkuli",
+                "category": "Friends",
+                "image": {
+                    "id": 675548,
+                    "template_id": 1
+                },
+                "whereabouts": "Jyväskylä, Finland",
+                "loan_because": "It's both useful and fun.",
+                "description": "",
+                "website_url": "",
+                "team_since": "2010-12-23T16:50:26Z",
+                "membership_type": "open",
+                "member_count": 2,
+                "loan_count": 24,
+                "loaned_amount": 600
+            }
+        ]
+    }
+}{
+    "brad8637": {
+        "teams": []
+    }
+}{
+    "bruce5468": {
+        "teams": []
+    }
+}{
+    "liz1821": {
+        "teams": []
+    }
+}{
+    "judy1221": {
+        "teams": []
+    }
+}{
+    "paul76861528": {
+        "teams": []
+    }
+}{
+    "john50088649": {
+        "teams": []
+    }
+}{
+    "petter77102503": {
+        "teams": []
+    }
+}{
+    "deborah7038": {
+        "teams": []
+    }
+}{
+    "barbara2364": {
+        "teams": []
+    }
+}{
+    "emran7671": {
+        "teams": []
+    }
+}{
+    "linda88931046": {
+        "teams": []
+    }
+}{
+    "jason5113": {
+        "teams": [
+            {
+                "id": 283,
+                "shortname": "christians",
+                "name": "Kiva Christians",
+                "category": "Friends",
+                "image": {
+                    "id": 471653,
+                    "template_id": 1
+                },
+                "whereabouts": "Worldwide",
+                "loan_because": "Pure and undefiled religion before God the Father is this: to care for orphans and widows in their misfortune and to keep oneself unstained by the world. (Jam. 1:27) http://whoisjesus-really.com/\r\n\r\nLink to information regarding Christian partners       \r\nhttp://goo.gl/LU3hzz",
+                "description": "A group of believers in Jesus Christ, brought together through a common purpose: to help those in need around the world.    \r\n",
+                "website_url": "http://whoisjesus-really.com/",
+                "team_since": "2008-08-31T15:33:31Z",
+                "membership_type": "open",
+                "member_count": 14402,
+                "loan_count": 360780,
+                "loaned_amount": 14009275
+            }
+        ]
+    }
+}{
+    "barry6989": {
+        "teams": []
+    }
+}{
+    "emily4211": {
+        "teams": []
+    }
+}{
+    "david11782360": {
+        "teams": []
+    }
+}{
+    "gabriele2293": {
+        "teams": [
+            {
+                "id": 117,
+                "shortname": "team_europe",
+                "name": "Team Europe",
+                "category": "Local Area",
+                "image": {
+                    "id": 195919,
+                    "template_id": 1
+                },
+                "whereabouts": "Europe",
+                "loan_because": "We think Kiva is a unique opportunity for people all over the world to assist entrepreneurs in improving their businesses and communities.",
+                "description": "We are European lenders (EU, EFTA, and all those who feel they belong) who share the belief in Kiva's vision.",
+                "website_url": "",
+                "team_since": "2008-08-29T14:45:05Z",
+                "membership_type": "open",
+                "member_count": 4924,
+                "loan_count": 123425,
+                "loaned_amount": 3719225
+            },
+            {
+                "id": 3922,
+                "shortname": "munich",
+                "name": "Munich",
+                "category": "Local Area",
+                "image": {
+                    "id": 247481,
+                    "template_id": 1
+                },
+                "whereabouts": "Munich, Germany",
+                "loan_because": "Munich likes to share its prosperity",
+                "description": "",
+                "website_url": "",
+                "team_since": "2008-12-27T14:13:15Z",
+                "membership_type": "open",
+                "member_count": 70,
+                "loan_count": 1472,
+                "loaned_amount": 39725
+            }
+        ]
+    }
+}{
+    "cecilia6147": {
+        "teams": []
+    }
+}{
+    "louisa1660": {
+        "teams": []
+    }
+}{
+    "erin6280": {
+        "teams": []
+    }
+}{
+    "jen6962": {
+        "teams": []
+    }
+}{
+    "kelly8900": {
+        "teams": []
+    }
+}{
+    "cynthia3693": {
+        "teams": []
+    }
+}{
+    "aobt": {
+        "teams": [
+            {
+                "id": 16963,
+                "shortname": "investment_club__chs",
+                "name": "Investment Club @ CHS",
+                "category": "Schools",
+                "whereabouts": "San Diego, CA",
+                "loan_because": "The world can be changed for the better when good people don't just stand by and let things happen but rather do something about it.",
+                "description": "",
+                "website_url": "",
+                "team_since": "2010-12-23T00:09:51Z",
+                "membership_type": "open",
+                "member_count": 2,
+                "loan_count": 7,
+                "loaned_amount": 200
+            }
+        ]
+    }
+}{
+    "muhammad7579": {
+        "teams": []
+    }
+}{
+    "michael7067": {
+        "teams": []
+    }
+}{
+    "mammadbf4224": {
+        "teams": []
+    }
+}{
+    "arah4988": {
+        "teams": []
+    }
+}{
+    "judy9849": {
+        "teams": [
+            {
+                "id": 448,
+                "shortname": "thunderbird_school_of_global_management",
+                "name": "Thunderbird, School of Global Management",
+                "category": "Alumni Groups",
+                "image": {
+                    "id": 198378,
+                    "template_id": 1
+                },
+                "whereabouts": "Truly Global",
+                "loan_because": "We are a truly global community of business leaders dedicated to improving sustainable economic growth worldwide.",
+                "description": "Students, staff, profesors & alumni of Thunderbird, School of Global Management (#1 in International Business).",
+                "website_url": "",
+                "team_since": "2008-09-03T19:40:07Z",
+                "membership_type": "open",
+                "member_count": 47,
+                "loan_count": 1163,
+                "loaned_amount": 30225
+            }
+        ]
+    }
+}{
+    "rami5934": {
+        "teams": []
+    }
+}{
+    "eva7981": {
+        "teams": []
+    }
+}{
+    "scott82195271": {
+        "teams": []
+    }
+}{
+    "dianne4550": {
+        "teams": []
+    }
+}{
+    "grace2457": {
+        "teams": []
+    }
+}{
+    "christine7219": {
+        "teams": []
+    }
+}{
+    "colleen4314": {
+        "teams": []
+    }
+}{
+    "victor4102": {
+        "teams": []
+    }
+}{
+    "fiona6901": {
+        "teams": []
+    }
+}{
+    "katriina5632": {
+        "teams": [
+            {
+                "id": 103,
+                "shortname": "finland",
+                "name": "Finland",
+                "category": "Local Area",
+                "image": {
+                    "id": 555299,
+                    "template_id": 1
+                },
+                "whereabouts": "Finland",
+                "loan_because": "",
+                "description": "Kiva Loaners in Finland",
+                "website_url": "http://www.facebook.com/pages/Kiva-Finland-Team/141243159262630",
+                "team_since": "2008-08-29T07:52:16Z",
+                "membership_type": "open",
+                "member_count": 1812,
+                "loan_count": 43448,
+                "loaned_amount": 1147000
+            }
+        ]
+    }
+}{
+    "misti7353": {
+        "teams": [
+            {
+                "id": 6223,
+                "shortname": "friendlyplanettravel",
+                "name": "Friendly Planet Travel",
+                "category": "Friends",
+                "image": {
+                    "id": 1653621,
+                    "template_id": 1
+                },
+                "whereabouts": "Pennsylvania, USA",
+                "loan_because": "We would like the opportunity to give back to the different countries and locations where we send travelers. ",
+                "description": "A team of caring travelers that would like to continue making a difference around the world.",
+                "website_url": "http://www.friendlyplanet.com",
+                "team_since": "2009-04-16T01:45:46Z",
+                "membership_type": "open",
+                "member_count": 281,
+                "loan_count": 3095,
+                "loaned_amount": 86000
+            }
+        ]
+    }
+}{
+    "chris39169179": {
+        "teams": []
+    }
+}{
+    "ashley1890": {
+        "teams": []
+    }
+}{
+    "wraylene3763": {
+        "teams": []
+    }
+}{
+    "halldisbjerkvik2861": {
+        "teams": []
+    }
+}{
+    "rebecca63571961": {
+        "teams": []
+    }
+}{
+    "desmond9717": {
+        "teams": []
+    }
+}{
+    "mollie4523": {
+        "teams": []
+    }
+}{
+    "beth2284": {
+        "teams": [
+            {
+                "id": 24653,
+                "shortname": "ishare",
+                "name": "The iShare Project",
+                "category": "Businesses",
+                "image": {
+                    "id": 1173514,
+                    "template_id": 1
+                },
+                "whereabouts": "California, USA",
+                "loan_because": "There are millions of people around the world that are jobless and are suffering. Especially in developing countries where these individuals are forced to live in ways that most Californians could never imagine.  Many don't have access to the proper education, housing or even food!  So we're changing that situation and assisting entrepreneurs with the necessary funds and knowledge in order to get their business off the ground!",
+                "description": "We are a generous and entrepreneurial community that work and live in California.  We're on a mission to raise $10K in four months through Kiva.",
+                "website_url": "",
+                "team_since": "2012-08-16T14:08:36Z",
+                "membership_type": "open",
+                "member_count": 7,
+                "loan_count": 11,
+                "loaned_amount": 275
+            }
+        ]
+    }
+}{
+    "sue2698": {
+        "teams": []
+    }
+}{
+    "jennifer41613995": {
+        "teams": []
+    }
+}{
+    "mahdi9958": {
+        "teams": []
+    }
+}{
+    "kathleen6324": {
+        "teams": []
+    }
+}{
+    "sa1667": {
+        "teams": []
+    }
+}{
+    "maryanne6487": {
+        "teams": []
+    }
+}{
+    "ben31176628": {
+        "teams": [
+            {
+                "id": 283,
+                "shortname": "christians",
+                "name": "Kiva Christians",
+                "category": "Friends",
+                "image": {
+                    "id": 471653,
+                    "template_id": 1
+                },
+                "whereabouts": "Worldwide",
+                "loan_because": "Pure and undefiled religion before God the Father is this: to care for orphans and widows in their misfortune and to keep oneself unstained by the world. (Jam. 1:27) http://whoisjesus-really.com/\r\n\r\nLink to information regarding Christian partners       \r\nhttp://goo.gl/LU3hzz",
+                "description": "A group of believers in Jesus Christ, brought together through a common purpose: to help those in need around the world.    \r\n",
+                "website_url": "http://whoisjesus-really.com/",
+                "team_since": "2008-08-31T15:33:31Z",
+                "membership_type": "open",
+                "member_count": 14402,
+                "loan_count": 360780,
+                "loaned_amount": 14009275
+            }
+        ]
+    }
+}{
+    "michael24228141": {
+        "teams": [
+            {
+                "id": 2110,
+                "shortname": "methodists",
+                "name": "METHODISTS",
+                "category": "Religious Congregations",
+                "image": {
+                    "id": 216266,
+                    "template_id": 1
+                },
+                "whereabouts": "Worldwide",
+                "loan_because": "",
+                "description": "",
+                "website_url": "",
+                "team_since": "2008-10-20T15:31:01Z",
+                "membership_type": "open",
+                "member_count": 84,
+                "loan_count": 1144,
+                "loaned_amount": 34125
+            },
+            {
+                "id": 283,
+                "shortname": "christians",
+                "name": "Kiva Christians",
+                "category": "Friends",
+                "image": {
+                    "id": 471653,
+                    "template_id": 1
+                },
+                "whereabouts": "Worldwide",
+                "loan_because": "Pure and undefiled religion before God the Father is this: to care for orphans and widows in their misfortune and to keep oneself unstained by the world. (Jam. 1:27) http://whoisjesus-really.com/\r\n\r\nLink to information regarding Christian partners       \r\nhttp://goo.gl/LU3hzz",
+                "description": "A group of believers in Jesus Christ, brought together through a common purpose: to help those in need around the world.    \r\n",
+                "website_url": "http://whoisjesus-really.com/",
+                "team_since": "2008-08-31T15:33:31Z",
+                "membership_type": "open",
+                "member_count": 14402,
+                "loan_count": 360780,
+                "loaned_amount": 14009275
+            }
+        ]
+    }
+}{
+    "carol6837": {
+        "teams": []
+    }
+}{
+    "jayme1098": {
+        "teams": []
+    }
+}{
+    "kayla6685": {
+        "teams": []
+    }
+}{
+    "albert7721": {
+        "teams": []
+    }
+}{
+    "julie5986": {
+        "teams": []
+    }
+}{
+    "jason57979382": {
+        "teams": []
+    }
+}{
+    "ahmed2597": {
+        "teams": []
+    }
+}{
+    "jackie5487": {
+        "teams": []
+    }
+}{
+    "deborah4707": {
+        "teams": []
+    }
+}{
+    "mariana6666": {
+        "teams": []
+    }
+}{
+    "tim3736": {
+        "teams": []
+    }
+}{
+    "lucy6281": {
+        "teams": []
+    }
+}{
+    "julia47796801": {
+        "teams": []
+    }
+}{
+    "kristen7420": {
+        "teams": []
+    }
+}{
+    "sarah75179553": {
+        "teams": []
+    }
+}{
+    "spencer4614": {
+        "teams": []
+    }
+}{
+    "jennifer33965044": {
+        "teams": []
+    }
+}{
+    "tanveer9842": {
+        "teams": []
+    }
+}{
+    "james64317737": {
+        "teams": []
+    }
+}{
+    "steve65667066": {
+        "teams": []
+    }
+}{
+    "doug4512": {
+        "teams": []
+    }
+}{
+    "diana9841": {
+        "teams": []
+    }
+}{
+    "jindrich": {
+        "teams": []
+    }
+}{
+    "rune1927": {
+        "teams": []
+    }
+}{
+    "blair6339": {
+        "teams": []
+    }
+}{
+    "nick96764676": {
+        "teams": [
+            {
+                "id": 94,
+                "shortname": "atheists",
+                "name": "Atheists, Agnostics, Skeptics, Freethinkers, Secular Humanists and the Non-Religious",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1401504,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "We care about human beings and understand that it takes people to help people.",
+                "description": "We are one human family, and we know that people can do good without believing in a god.\r\n\r\nThe Plus sign in the A+ Team logo reflects the fact that the team comprises Atheists, PLUS Agnostics, Skeptics, Freethinkers, Secular Humanists, and Non-Religious members.  A+ is also a symbol of excellence.\r\n\r\n***TEAM WEBSITE***\r\nhttp://apluskiva.wordpress.com/\r\n\r\n***TEAM RESOURCES***\r\nSecular Loans\r\nhttp://goo.gl/wtDkJ\r\n\r\nField Partners - Social and Secular Ratings:\r\nwww.tinyurl.com/AASFSHNR-MFIs\r\n\r\n***OTHER RESOURCES:***\r\nStarfish List:\r\nhttp://starfish.dynalias.org/\r\n\r\nKivaLens:\r\nhttp://www.kivalens.org/\r\n\r\nToolkit for analyzing Kiva data:\r\nhttp://build.kiva.org/",
+                "website_url": "http://apluskiva.wordpress.com/",
+                "team_since": "2008-08-29T03:40:31Z",
+                "membership_type": "open",
+                "member_count": 30460,
+                "loan_count": 611844,
+                "loaned_amount": 17856150
+            }
+        ]
+    }
+}{
+    "mike5889": {
+        "teams": []
+    }
+}{
+    "jon8362": {
+        "teams": []
+    }
+}{
+    "sarah6810": {
+        "teams": []
+    }
+}{
+    "alyssa7014": {
+        "teams": []
+    }
+}{
+    "gabe2809": {
+        "teams": []
+    }
+}{
+    "michael3520": {
+        "teams": []
+    }
+}{
+    "shareen9547": {
+        "teams": []
+    }
+}{
+    "vishesh5527": {
+        "teams": []
+    }
+}{
+    "michi3573": {
+        "teams": []
+    }
+}{
+    "ahmed9521": {
+        "teams": []
+    }
+}{
+    "johnathan8612": {
+        "teams": []
+    }
+}{
+    "stacy2028": {
+        "teams": []
+    }
+}{
+    "natasha8209": {
+        "teams": []
+    }
+}{
+    "oddbjrn4384": {
+        "teams": []
+    }
+}{
+    "kirstin6011": {
+        "teams": [
+            {
+                "id": 831,
+                "shortname": "university_of_wisconsinmadison",
+                "name": "University of Wisconsin-Madison",
+                "category": "Colleges/Universities",
+                "image": {
+                    "id": 200848,
+                    "template_id": 1
+                },
+                "whereabouts": "Madison, Wisconsin",
+                "loan_because": "We believe we can make a change in this world. ",
+                "description": "Students, staff, faculty, and alumni of University of Wisconsin-Madison get together to participate in microfinancing.  We are very enthusiastic about it.",
+                "website_url": "",
+                "team_since": "2008-09-09T03:59:05Z",
+                "membership_type": "open",
+                "member_count": 180,
+                "loan_count": 2891,
+                "loaned_amount": 79425
+            },
+            {
+                "id": 1186,
+                "shortname": "saint_louis_university",
+                "name": "Saint Louis University",
+                "category": "Colleges/Universities",
+                "image": {
+                    "id": 203643,
+                    "template_id": 1
+                },
+                "whereabouts": "Saint Louis",
+                "loan_because": "",
+                "description": "",
+                "website_url": "",
+                "team_since": "2008-09-15T23:25:54Z",
+                "membership_type": "open",
+                "member_count": 20,
+                "loan_count": 106,
+                "loaned_amount": 2925
+            },
+            {
+                "id": 141,
+                "shortname": "women_empowering_women",
+                "name": "women empowering women",
+                "category": "Common Interest",
+                "image": {
+                    "id": 196076,
+                    "template_id": 1
+                },
+                "whereabouts": "global",
+                "loan_because": "empower a woman, change the world.",
+                "description": "",
+                "website_url": "",
+                "team_since": "2008-08-29T21:58:01Z",
+                "membership_type": "open",
+                "member_count": 3710,
+                "loan_count": 39605,
+                "loaned_amount": 1148725
+            }
+        ]
+    }
+}{
+    "preben7900": {
+        "teams": []
+    }
+}{
+    "sandra1635": {
+        "teams": []
+    }
+}{
+    "ej3116": {
+        "teams": [
+            {
+                "id": 31519,
+                "shortname": "the_power_of_one",
+                "name": "The Power of One",
+                "category": "Other",
+                "whereabouts": "whereever you are",
+                "loan_because": "The world needs people to step up, even if it is only one person, a difference can be made.",
+                "description": "Just me, or maybe you too, making loans and investing time.",
+                "website_url": "",
+                "team_since": "2014-11-02T01:09:35Z",
+                "membership_type": "closed",
+                "member_count": 1,
+                "loan_count": 0,
+                "loaned_amount": 0
+            }
+        ]
+    }
+}{
+    "mdhjuz7741": {
+        "teams": []
+    }
+}{
+    "darcy7592": {
+        "teams": []
+    }
+}{
+    "nader8442": {
+        "teams": []
+    }
+}{
+    "jose9458": {
+        "teams": []
+    }
+}{
+    "ahmed8136": {
+        "teams": []
+    }
+}{
+    "jonathan7358": {
+        "teams": []
+    }
+}{
+    "lashanda1410": {
+        "teams": []
+    }
+}{
+    "emma6123": {
+        "teams": []
+    }
+}{
+    "eliana1150": {
+        "teams": []
+    }
+}{
+    "michael2863": {
+        "teams": []
+    }
+}{
+    "kat7388": {
+        "teams": []
+    }
+}{
+    "shannon2467": {
+        "teams": [
+            {
+                "id": 9325,
+                "shortname": "stuffyoushouldknow",
+                "name": "Stuff You Should Know from HowStuffWorks.com",
+                "category": "Friends",
+                "image": {
+                    "id": 401562,
+                    "template_id": 1
+                },
+                "whereabouts": "Atlanta, GA",
+                "loan_because": "We care. ",
+                "description": "Arguably the finest assemblage of people who have never met dedicated to the common purpose of hastening global peace in $25 increments. ",
+                "website_url": "http://www.youtube.com/watch?v=gj1IJ4RxFMU",
+                "team_since": "2009-10-06T19:23:45Z",
+                "membership_type": "open",
+                "member_count": 8119,
+                "loan_count": 101376,
+                "loaned_amount": 2788775
+            }
+        ]
+    }
+}{
+    "torrance3041": {
+        "teams": []
+    }
+}{
+    "juan5411": {
+        "teams": []
+    }
+}{
+    "marie4319": {
+        "teams": []
+    }
+}{
+    "jake7572": {
+        "teams": []
+    }
+}{
+    "parrish8577": {
+        "teams": []
+    }
+}{
+    "john66946268": {
+        "teams": []
+    }
+}{
+    "susannah2159": {
+        "teams": []
+    }
+}{
+    "ruth2541": {
+        "teams": [
+            {
+                "id": 94,
+                "shortname": "atheists",
+                "name": "Atheists, Agnostics, Skeptics, Freethinkers, Secular Humanists and the Non-Religious",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1401504,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "We care about human beings and understand that it takes people to help people.",
+                "description": "We are one human family, and we know that people can do good without believing in a god.\r\n\r\nThe Plus sign in the A+ Team logo reflects the fact that the team comprises Atheists, PLUS Agnostics, Skeptics, Freethinkers, Secular Humanists, and Non-Religious members.  A+ is also a symbol of excellence.\r\n\r\n***TEAM WEBSITE***\r\nhttp://apluskiva.wordpress.com/\r\n\r\n***TEAM RESOURCES***\r\nSecular Loans\r\nhttp://goo.gl/wtDkJ\r\n\r\nField Partners - Social and Secular Ratings:\r\nwww.tinyurl.com/AASFSHNR-MFIs\r\n\r\n***OTHER RESOURCES:***\r\nStarfish List:\r\nhttp://starfish.dynalias.org/\r\n\r\nKivaLens:\r\nhttp://www.kivalens.org/\r\n\r\nToolkit for analyzing Kiva data:\r\nhttp://build.kiva.org/",
+                "website_url": "http://apluskiva.wordpress.com/",
+                "team_since": "2008-08-29T03:40:31Z",
+                "membership_type": "open",
+                "member_count": 30460,
+                "loan_count": 611844,
+                "loaned_amount": 17856150
+            }
+        ]
+    }
+}{
+    "vincent9126": {
+        "teams": []
+    }
+}{
+    "jaime9659": {
+        "teams": []
+    }
+}{
+    "maria9588": {
+        "teams": []
+    }
+}{
+    "john4675": {
+        "teams": []
+    }
+}{
+    "erik5601": {
+        "teams": []
+    }
+}{
+    "seetha9316": {
+        "teams": []
+    }
+}{
+    "folker4019": {
+        "teams": []
+    }
+}{
+    "jim9022": {
+        "teams": []
+    }
+}{
+    "commaryann1274": {
+        "teams": []
+    }
+}{
+    "nicholas95654050": {
+        "teams": []
+    }
+}{
+    "dagmar4345": {
+        "teams": []
+    }
+}{
+    "nour5813": {
+        "teams": []
+    }
+}{
+    "melinda4116": {
+        "teams": [
+            {
+                "id": 16307,
+                "shortname": "dermalogica_canada",
+                "name": "Dermalogica Canada",
+                "category": "Businesses",
+                "image": {
+                    "id": 652317,
+                    "template_id": 1
+                },
+                "whereabouts": "Toronto",
+                "loan_because": "We believe in the multiplier effect of supplying capital to women - supporting a woman in opening or growing a business enables her to buy food and housing for her family, send her children to school, and contribute to the welfare of her community. We want to help put more women on the road to financial indepdendence through entrepreneurship. Join the FITE!",
+                "description": "",
+                "website_url": "www.dermalogica.ca",
+                "team_since": "2010-11-26T21:54:25Z",
+                "membership_type": "open",
+                "member_count": 125,
+                "loan_count": 8194,
+                "loaned_amount": 208850
+            }
+        ]
+    }
+}{
+    "andrew4794": {
+        "teams": []
+    }
+}{
+    "stephanie2437": {
+        "teams": []
+    }
+}{
+    "paul3962": {
+        "teams": []
+    }
+}{
+    "jillian2259": {
+        "teams": []
+    }
+}{
+    "hob3332658": {
+        "teams": []
+    }
+}{
+    "kara7154": {
+        "teams": []
+    }
+}{
+    "leah8669": {
+        "teams": []
+    }
+}{
+    "moralea7850": {
+        "teams": []
+    }
+}{
+    "teamclark5313": {
+        "teams": []
+    }
+}{
+    "stanley4387": {
+        "teams": []
+    }
+}{
+    "donald9278": {
+        "teams": []
+    }
+}{
+    "daniel3646": {
+        "teams": [
+            {
+                "id": 16962,
+                "shortname": "kiely",
+                "name": "Daniel Kylie",
+                "category": "Families",
+                "image": {
+                    "id": 674717,
+                    "template_id": 1
+                },
+                "whereabouts": "Australia",
+                "loan_because": "We can. ",
+                "description": "Friendly and supportive. ",
+                "website_url": "",
+                "team_since": "2010-12-22T22:56:17Z",
+                "membership_type": "closed",
+                "member_count": 1,
+                "loan_count": 12,
+                "loaned_amount": 350
+            }
+        ]
+    }
+}{
+    "courtney3742": {
+        "teams": []
+    }
+}{
+    "salah7619": {
+        "teams": []
+    }
+}{
+    "liane9392": {
+        "teams": []
+    }
+}{
+    "hhh8148": {
+        "teams": []
+    }
+}{
+    "mohmed2718": {
+        "teams": []
+    }
+}{
+    "barb5737": {
+        "teams": []
+    }
+}{
+    "fraser1159": {
+        "teams": []
+    }
+}{
+    "darren1541": {
+        "teams": []
+    }
+}{
+    "daniel74013279": {
+        "teams": []
+    }
+}{
+    "chris50544865": {
+        "teams": []
+    }
+}{
+    "david81005337": {
+        "teams": []
+    }
+}{
+    "karen14527901": {
+        "teams": []
+    }
+}{
+    "david94118227": {
+        "teams": []
+    }
+}{
+    "sadeq2565": {
+        "teams": []
+    }
+}{
+    "virginia2396": {
+        "teams": []
+    }
+}{
+    "josh12977125": {
+        "teams": []
+    }
+}{
+    "gwynne4570": {
+        "teams": []
+    }
+}{
+    "herkirsten6377": {
+        "teams": []
+    }
+}{
+    "nathan5190": {
+        "teams": []
+    }
+}{
+    "jon63973675": {
+        "teams": [
+            {
+                "id": 26947,
+                "shortname": "the_drunken_taoist",
+                "name": "The Drunken Taoist",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1355269,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "we can and are lucky enough to be in a position to help those less fortunate with full knowledge that it is a simple roll of the dice that we are not in our own difficult situations.",
+                "description": "A group of like minded folks that are on a mission to make the world a better place for everyone with the hope that capitalism will be replaced with caring. ",
+                "website_url": "http://thedrunkentaoist.com/",
+                "team_since": "2013-05-18T23:59:21Z",
+                "membership_type": "open",
+                "member_count": 118,
+                "loan_count": 533,
+                "loaned_amount": 16850
+            }
+        ]
+    }
+}{
+    "drygobitter": {
+        "teams": []
+    }
+}{
+    "eva3578": {
+        "teams": []
+    }
+}{
+    "jere5754": {
+        "teams": []
+    }
+}{
+    "alltheapparatus7188": {
+        "teams": []
+    }
+}{
+    "michael70442589": {
+        "teams": []
+    }
+}{
+    "carol5475": {
+        "teams": []
+    }
+}{
+    "kathy15875464": {
+        "teams": []
+    }
+}{
+    "anthony75435101": {
+        "teams": []
+    }
+}{
+    "timothy4280": {
+        "teams": []
+    }
+}{
+    "scott2419": {
+        "teams": []
+    }
+}{
+    "argentina8825": {
+        "teams": []
+    }
+}{
+    "john7919": {
+        "teams": []
+    }
+}{
+    "emma2929": {
+        "teams": []
+    }
+}{
+    "philip3964": {
+        "teams": []
+    }
+}{
+    "lea1149": {
+        "teams": []
+    }
+}{
+    "curt7804": {
+        "teams": []
+    }
+}{
+    "marta6423": {
+        "teams": []
+    }
+}{
+    "tiffany6314": {
+        "teams": [
+            {
+                "id": 9325,
+                "shortname": "stuffyoushouldknow",
+                "name": "Stuff You Should Know from HowStuffWorks.com",
+                "category": "Friends",
+                "image": {
+                    "id": 401562,
+                    "template_id": 1
+                },
+                "whereabouts": "Atlanta, GA",
+                "loan_because": "We care. ",
+                "description": "Arguably the finest assemblage of people who have never met dedicated to the common purpose of hastening global peace in $25 increments. ",
+                "website_url": "http://www.youtube.com/watch?v=gj1IJ4RxFMU",
+                "team_since": "2009-10-06T19:23:45Z",
+                "membership_type": "open",
+                "member_count": 8119,
+                "loan_count": 101376,
+                "loaned_amount": 2788775
+            }
+        ]
+    }
+}{
+    "billandalice1198": {
+        "teams": []
+    }
+}{
+    "joy2501": {
+        "teams": []
+    }
+}{
+    "kim9020": {
+        "teams": []
+    }
+}{
+    "matthew5580": {
+        "teams": []
+    }
+}{
+    "paul62289691": {
+        "teams": []
+    }
+}{
+    "kevin8327": {
+        "teams": []
+    }
+}{
+    "benbrooke8863": {
+        "teams": [
+            {
+                "id": 8048,
+                "shortname": "ohio_northern_university",
+                "name": "Ohio Northern University (ONU)",
+                "category": "Colleges/Universities",
+                "image": {
+                    "id": 361034,
+                    "template_id": 1
+                },
+                "whereabouts": "USA",
+                "loan_because": "",
+                "description": "Students, alumni, faculty and friends of Ohio Northern University, a private university in the quiet town of Ada, located in northwestern Ohio",
+                "website_url": "",
+                "team_since": "2009-07-29T02:11:31Z",
+                "membership_type": "open",
+                "member_count": 13,
+                "loan_count": 264,
+                "loaned_amount": 7575
+            },
+            {
+                "id": 871,
+                "shortname": "university_of_arizona",
+                "name": "University of Arizona (UofA) Students/Alumni",
+                "category": "Colleges/Universities",
+                "image": {
+                    "id": 201155,
+                    "template_id": 1
+                },
+                "whereabouts": "Tucson, AZ",
+                "loan_because": "“Be the change you want to see in the world.” - Mahatma Gandhi ",
+                "description": "Alumni and Students of the University of Arizona who donate to Kiva.org.  We \"Bear Down\" to help others. Woot!",
+                "website_url": "",
+                "team_since": "2008-09-09T17:46:49Z",
+                "membership_type": "open",
+                "member_count": 73,
+                "loan_count": 1161,
+                "loaned_amount": 31350
+            },
+            {
+                "id": 4574,
+                "shortname": "phoenix_az",
+                "name": "Phoenix, Arizona",
+                "category": "Local Area",
+                "image": {
+                    "id": 261056,
+                    "template_id": 1
+                },
+                "whereabouts": "Phoenix, Arizona",
+                "loan_because": "",
+                "description": "We are a group of people from a big city in Arizona, trying to make a difference. ",
+                "website_url": "",
+                "team_since": "2009-01-25T05:47:20Z",
+                "membership_type": "open",
+                "member_count": 20,
+                "loan_count": 115,
+                "loaned_amount": 2975
+            }
+        ]
+    }
+}{
+    "aaron7478": {
+        "teams": []
+    }
+}{
+    "jack4041": {
+        "teams": []
+    }
+}{
+    "david84764211": {
+        "teams": []
+    }
+}{
+    "peter7139": {
+        "teams": []
+    }
+}{
+    "kirsty1718": {
+        "teams": [
+            {
+                "id": 24956,
+                "shortname": "pect_",
+                "name": "PECT ",
+                "category": "Friends",
+                "whereabouts": "Worldwide",
+                "loan_because": "",
+                "description": "",
+                "website_url": "",
+                "team_since": "2012-09-29T03:02:54Z",
+                "membership_type": "closed",
+                "member_count": 7,
+                "loan_count": 5,
+                "loaned_amount": 125
+            }
+        ]
+    }
+}{
+    "jeremiah9821": {
+        "teams": []
+    }
+}{
+    "shayne9809": {
+        "teams": []
+    }
+}{
+    "cheryl4037": {
+        "teams": []
+    }
+}{
+    "beth8016": {
+        "teams": []
+    }
+}{
+    "nigelo6841": {
+        "teams": []
+    }
+}{
+    "alessandra1389": {
+        "teams": []
+    }
+}{
+    "joe1781": {
+        "teams": []
+    }
+}{
+    "liz8691": {
+        "teams": []
+    }
+}{
+    "aline1477": {
+        "teams": []
+    }
+}{
+    "jessica4688": {
+        "teams": []
+    }
+}{
+    "john84502187": {
+        "teams": []
+    }
+}{
+    "degala": {
+        "teams": []
+    }
+}{
+    "jennifer36136827": {
+        "teams": []
+    }
+}{
+    "josh4893": {
+        "teams": []
+    }
+}{
+    "kristin6188": {
+        "teams": []
+    }
+}{
+    "matt4606": {
+        "teams": []
+    }
+}{
+    "pedro1140": {
+        "teams": [
+            {
+                "id": 6752,
+                "shortname": "andancas",
+                "name": "Andanças",
+                "category": "Friends",
+                "image": {
+                    "id": 320651,
+                    "template_id": 1
+                },
+                "whereabouts": "Évora",
+                "loan_because": "",
+                "description": "",
+                "website_url": "http://www.pedexumbo.com/",
+                "team_since": "2009-05-16T15:55:53Z",
+                "membership_type": "open",
+                "member_count": 22,
+                "loan_count": 192,
+                "loaned_amount": 4825
+            }
+        ]
+    }
+}{
+    "emily8686": {
+        "teams": []
+    }
+}{
+    "matt9893": {
+        "teams": []
+    }
+}{
+    "mary7998": {
+        "teams": []
+    }
+}{
+    "deanna3851": {
+        "teams": []
+    }
+}{
+    "catherine88508458": {
+        "teams": []
+    }
+}{
+    "patrick9559": {
+        "teams": []
+    }
+}{
+    "chris9482": {
+        "teams": [
+            {
+                "id": 9325,
+                "shortname": "stuffyoushouldknow",
+                "name": "Stuff You Should Know from HowStuffWorks.com",
+                "category": "Friends",
+                "image": {
+                    "id": 401562,
+                    "template_id": 1
+                },
+                "whereabouts": "Atlanta, GA",
+                "loan_because": "We care. ",
+                "description": "Arguably the finest assemblage of people who have never met dedicated to the common purpose of hastening global peace in $25 increments. ",
+                "website_url": "http://www.youtube.com/watch?v=gj1IJ4RxFMU",
+                "team_since": "2009-10-06T19:23:45Z",
+                "membership_type": "open",
+                "member_count": 8119,
+                "loan_count": 101376,
+                "loaned_amount": 2788775
+            }
+        ]
+    }
+}{
+    "ann4715": {
+        "teams": []
+    }
+}{
+    "aysha1701": {
+        "teams": []
+    }
+}{
+    "aman8207": {
+        "teams": []
+    }
+}{
+    "angel1102": {
+        "teams": []
+    }
+}{
+    "jonathan52914214": {
+        "teams": []
+    }
+}{
+    "delis3483": {
+        "teams": []
+    }
+}{
+    "kristine9598": {
+        "teams": []
+    }
+}{
+    "kristie4518": {
+        "teams": []
+    }
+}{
+    "valerie6073": {
+        "teams": []
+    }
+}{
+    "judy2950": {
+        "teams": []
+    }
+}{
+    "douglas2620": {
+        "teams": []
+    }
+}{
+    "leslie1057": {
+        "teams": []
+    }
+}{
+    "matt8487": {
+        "teams": []
+    }
+}{
+    "alexandra9794": {
+        "teams": [
+            {
+                "id": 23825,
+                "shortname": "juicygeniuses",
+                "name": "Juicy Geniuses",
+                "category": "Businesses",
+                "image": {
+                    "id": 1083278,
+                    "template_id": 1
+                },
+                "whereabouts": "Global",
+                "loan_because": "We love making a difference and empowering female entrepreneurs world-wide!",
+                "description": "We are a empowered female entrepreneurs looking to make a whole lotta impact by sharing a little moola.",
+                "website_url": "www.juicygeniuses.com",
+                "team_since": "2012-04-29T00:31:43Z",
+                "membership_type": "open",
+                "member_count": 4,
+                "loan_count": 22,
+                "loaned_amount": 550
+            }
+        ]
+    }
+}{
+    "julie8332": {
+        "teams": []
+    }
+}{
+    "david5705": {
+        "teams": []
+    }
+}{
+    "katherine8890": {
+        "teams": [
+            {
+                "id": 282,
+                "shortname": "ravelrycom",
+                "name": "Ravelry.com",
+                "category": "Common Interest",
+                "image": {
+                    "id": 196764,
+                    "template_id": 1
+                },
+                "whereabouts": "Online",
+                "loan_because": "We want to support crafts people all over the world.",
+                "description": "We are a group of knitters and crocheters that want to support other crafts people around the world",
+                "website_url": "www.ravelry.com",
+                "team_since": "2008-08-31T15:23:06Z",
+                "membership_type": "open",
+                "member_count": 807,
+                "loan_count": 12158,
+                "loaned_amount": 333825
+            }
+        ]
+    }
+}{
+    "john7024": {
+        "teams": []
+    }
+}{
+    "beth7709": {
+        "teams": []
+    }
+}{
+    "cynthia51998439": {
+        "teams": []
+    }
+}{
+    "chris4814": {
+        "teams": []
+    }
+}{
+    "joetta7464": {
+        "teams": []
+    }
+}{
+    "renee2712": {
+        "teams": []
+    }
+}{
+    "joe7258": {
+        "teams": []
+    }
+}{
+    "lea7817": {
+        "teams": []
+    }
+}{
+    "liz6125": {
+        "teams": []
+    }
+}{
+    "mikael4217": {
+        "teams": []
+    }
+}{
+    "sandra5000": {
+        "teams": []
+    }
+}{
+    "donna43576916": {
+        "teams": []
+    }
+}{
+    "erin7452": {
+        "teams": []
+    }
+}{
+    "caroline6237": {
+        "teams": []
+    }
+}{
+    "magnus9962": {
+        "teams": [
+            {
+                "id": 16881,
+                "shortname": "nansen",
+                "name": "Nansen",
+                "category": "Businesses",
+                "image": {
+                    "id": 1257910,
+                    "template_id": 1
+                },
+                "whereabouts": "SWEDEN",
+                "loan_because": "Global changes starts with local actions",
+                "description": "Nansen is a digital agency based in Stockholm, London, Chicago, New York and Washington D.C\r\n\r\n",
+                "website_url": "www.nansen.com",
+                "team_since": "2010-12-20T15:19:37Z",
+                "membership_type": "open",
+                "member_count": 57,
+                "loan_count": 693,
+                "loaned_amount": 24575
+            }
+        ]
+    }
+}{
+    "timothyj6556": {
+        "teams": []
+    }
+}{
+    "ellen9811": {
+        "teams": []
+    }
+}{
+    "todd3211": {
+        "teams": []
+    }
+}{
+    "mark5582": {
+        "teams": []
+    }
+}{
+    "yus8456": {
+        "teams": []
+    }
+}{
+    "kelly45352817": {
+        "teams": []
+    }
+}{
+    "kortingscode": {
+        "teams": []
+    }
+}{
+    "mary1109": {
+        "teams": []
+    }
+}{
+    "mohamed9854": {
+        "teams": []
+    }
+}{
+    "meg5419": {
+        "teams": []
+    }
+}{
+    "dana5464": {
+        "teams": [
+            {
+                "id": 23522,
+                "shortname": "trinity_lutheran_church_monument_co",
+                "name": "Trinity Lutheran Church Monument CO",
+                "category": "Religious Congregations",
+                "image": {
+                    "id": 1065637,
+                    "template_id": 1
+                },
+                "whereabouts": "Monument, CO",
+                "loan_because": "We have been touched by the hand of God to touch the life of others",
+                "description": "",
+                "website_url": "www.trinety.org",
+                "team_since": "2012-03-22T03:09:16Z",
+                "membership_type": "open",
+                "member_count": 26,
+                "loan_count": 208,
+                "loaned_amount": 6025
+            }
+        ]
+    }
+}{
+    "claire3942": {
+        "teams": []
+    }
+}{
+    "brieanna8960": {
+        "teams": []
+    }
+}{
+    "orcapod": {
+        "teams": []
+    }
+}{
+    "joe4278": {
+        "teams": []
+    }
+}{
+    "emma8011": {
+        "teams": []
+    }
+}{
+    "josh7450": {
+        "teams": []
+    }
+}{
+    "savannah1544": {
+        "teams": []
+    }
+}{
+    "marcia6654": {
+        "teams": []
+    }
+}{
+    "lara5410": {
+        "teams": []
+    }
+}{
+    "lorne5820": {
+        "teams": []
+    }
+}{
+    "mrshafes6028": {
+        "teams": []
+    }
+}{
+    "marjorie6113": {
+        "teams": []
+    }
+}{
+    "barrett2221": {
+        "teams": []
+    }
+}{
+    "liza5137": {
+        "teams": []
+    }
+}{
+    "whitney3590": {
+        "teams": []
+    }
+}{
+    "bianka2220": {
+        "teams": []
+    }
+}{
+    "travis9709": {
+        "teams": []
+    }
+}{
+    "eryn6862": {
+        "teams": []
+    }
+}{
+    "tremaine8009": {
+        "teams": []
+    }
+}{
+    "zac1855": {
+        "teams": []
+    }
+}{
+    "shelley5917": {
+        "teams": []
+    }
+}{
+    "elena3760": {
+        "teams": []
+    }
+}{
+    "nancy36163418": {
+        "teams": []
+    }
+}{
+    "jesper6041": {
+        "teams": []
+    }
+}{
+    "luke3388": {
+        "teams": []
+    }
+}{
+    "steve9009": {
+        "teams": []
+    }
+}{
+    "murray3040": {
+        "teams": []
+    }
+}{
+    "prasad4986": {
+        "teams": []
+    }
+}{
+    "lauren99156139": {
+        "teams": []
+    }
+}{
+    "dorothy2160": {
+        "teams": []
+    }
+}{
+    "erin2585": {
+        "teams": []
+    }
+}{
+    "gareth9249": {
+        "teams": []
+    }
+}{
+    "maryann8414": {
+        "teams": []
+    }
+}{
+    "philip7834": {
+        "teams": []
+    }
+}{
+    "donald9670": {
+        "teams": []
+    }
+}{
+    "katie1264": {
+        "teams": []
+    }
+}{
+    "beth6841": {
+        "teams": []
+    }
+}{
+    "jamie6714": {
+        "teams": []
+    }
+}{
+    "surviva6940": {
+        "teams": []
+    }
+}{
+    "erin18786096": {
+        "teams": []
+    }
+}{
+    "austin8761": {
+        "teams": [
+            {
+                "id": 394,
+                "shortname": "nerdfighters",
+                "name": "Nerdfighters",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1364412,
+                    "template_id": 1
+                },
+                "whereabouts": "Nerdfighteria",
+                "loan_because": "We aim to decrease world suck.\r\n\r\nAnd this is how:\r\nwww.eludehcs.no/kiva/nerdfighters/nerdfighters20120916.png by Nerdfighter Ole Bendik",
+                "description": "We're Nerdfighters! We fight against suck; we fight for awesome! We fight using our brains, our hearts, our calculators, and our trombones.\r\n\r\nHappy lending!\r\n\r\nFollow us on twitter: https://twitter.com/KivaNerds",
+                "website_url": "youtube.com/vlogbrothers",
+                "team_since": "2008-09-02T16:26:24Z",
+                "membership_type": "open",
+                "member_count": 47577,
+                "loan_count": 160914,
+                "loaned_amount": 4747525
+            }
+        ]
+    }
+}{
+    "anne6706": {
+        "teams": []
+    }
+}{
+    "judy2788": {
+        "teams": []
+    }
+}{
+    "daniela3608": {
+        "teams": []
+    }
+}{
+    "elaine5902": {
+        "teams": []
+    }
+}{
+    "holly1223": {
+        "teams": []
+    }
+}{
+    "michael3814": {
+        "teams": []
+    }
+}{
+    "tara2503": {
+        "teams": []
+    }
+}{
+    "katie4147": {
+        "teams": []
+    }
+}{
+    "stephanie3372": {
+        "teams": []
+    }
+}{
+    "domenic5470": {
+        "teams": []
+    }
+}{
+    "anne5554": {
+        "teams": []
+    }
+}{
+    "cindy4831": {
+        "teams": []
+    }
+}{
+    "rebecca2667": {
+        "teams": []
+    }
+}{
+    "lyndelle6325": {
+        "teams": []
+    }
+}{
+    "lindsay5334": {
+        "teams": [
+            {
+                "id": 17182,
+                "shortname": "pittsburgh",
+                "name": "Pittsburgh",
+                "category": "Local Area",
+                "image": {
+                    "id": 728344,
+                    "template_id": 1
+                },
+                "whereabouts": "Pittsburgh, PA",
+                "loan_because": "Pittsburghers understand hard work. We support the idea of opportunity for all people.",
+                "description": "The Kiva Pittsburgh team is made up of progressive Pittsburgh natives, transplants and others who love the city. We look forward to hosting events for current Kiva loaners and those interested in Kiva.\r\n\r\nWe come together to make a change in our world.\r\n\r\nFollow us on Twitter: http://twitter.com/KivaPittsburgh\r\n\r\nCheck us out on Facebook:\r\nwww.facebook.com/KivaPittsburgh",
+                "website_url": "www.kivapittsburgh.com",
+                "team_since": "2011-01-03T16:27:34Z",
+                "membership_type": "open",
+                "member_count": 284,
+                "loan_count": 3979,
+                "loaned_amount": 109900
+            },
+            {
+                "id": 7713,
+                "shortname": "armenia",
+                "name": "Armenia",
+                "category": "Field Partner Fans",
+                "image": {
+                    "id": 632444,
+                    "template_id": 1
+                },
+                "whereabouts": "World-wide",
+                "loan_because": "we want to be part of a global community that aims to sustainably alleviate poverty",
+                "description": "The Armenia Team currently has 90 members supporting Armenian entrepreneurs. \r\n\r\nWhether they make cheese, herd sheep, sell shoes, or grow tomatoes, our team exists to support them in getting access to affordable loans all over Armenia.\r\n \r\nPast and Present Kiva Fellows Serving in Armenia:\r\n\r\n- Velizara Passajova KF8\r\n- Brian Kelly KF9\r\n- Suzanne Till KF9\r\n- Alexis Ohanian KF10\r\n- Liz Nagle KF10\r\n- Peter Tashjian KF11\r\n- Vanick Der Bedrossian KF12\r\n- Abhishek Banerjee KF13\r\n- Caree Edson KF14\r\n\r\nAs Kiva Fellows, we are here to support Kiva lending in Armenia. We will update team members with interesting news, and gladly answer any questions you may have.\r\n\r\nHappy lending, and Go Team Armenia!\r\n\r\nYou can check out our field partners:\r\nSEF International here: http://www.kiva.org/partners/169\r\nand Nor Horizon here:\r\nhttp://www.kiva.org/about/aboutPartner?id=146&_tpg=fb",
+                "website_url": "",
+                "team_since": "2009-07-10T10:49:08Z",
+                "membership_type": "open",
+                "member_count": 224,
+                "loan_count": 5468,
+                "loaned_amount": 161575
+            }
+        ]
+    }
+}{
+    "joe3196": {
+        "teams": []
+    }
+}{
+    "kevin7069": {
+        "teams": []
+    }
+}{
+    "melissa3675": {
+        "teams": []
+    }
+}{
+    "eileen5770": {
+        "teams": []
+    }
+}{
+    "alice1666": {
+        "teams": []
+    }
+}{
+    "emanuel3384": {
+        "teams": []
+    }
+}{
+    "rachel8811": {
+        "teams": []
+    }
+}{
+    "edward8776": {
+        "teams": []
+    }
+}{
+    "joanne8401": {
+        "teams": []
+    }
+}{
+    "nik3431": {
+        "teams": []
+    }
+}{
+    "rena8892": {
+        "teams": []
+    }
+}{
+    "elizabeth2265": {
+        "teams": []
+    }
+}{
+    "tad2895": {
+        "teams": [
+            {
+                "id": 16965,
+                "shortname": "httpmy_electronics_mart",
+                "name": "My Electronics Mart",
+                "category": "Businesses",
+                "image": {
+                    "id": 674835,
+                    "template_id": 1
+                },
+                "whereabouts": "Utah",
+                "loan_because": "We like to help out with anything to help people get on there feet. \r\nAnd to make this world a better place. If everybody would just give a little it would help so much. God blesses all of us.",
+                "description": "We are very hard working people, that try to give the best deals to where we dont make a lot. Just enough to pay some bill. We only mark our product from factory price 10% up and that is it. We want everybody to be able to get somethings they have wanted, but could not get it cause it is to muck. We dont mark are stuff up 50% or more like everyone else does. We want to help. So we do as much as we can. The My Electronics Mart team. \r\nWisdom is knowing what to do next; virtue is doing it.\" You are obviously both wise and virtuous. Please accept our sincere thanks for this chance to help with money for these special people. You won't be forgotten. They did so much for so little. How do you find the words to express your thanks? For what they do.",
+                "website_url": "http://myelectronicsmart.com/",
+                "team_since": "2010-12-23T00:46:41Z",
+                "membership_type": "open",
+                "member_count": 3,
+                "loan_count": 0,
+                "loaned_amount": 0
+            }
+        ]
+    }
+}{
+    "thomas28783328": {
+        "teams": []
+    }
+}{
+    "revdramos9583": {
+        "teams": []
+    }
+}{
+    "kenandjess9094": {
+        "teams": []
+    }
+}{
+    "bj4058": {
+        "teams": []
+    }
+}{
+    "carla9834": {
+        "teams": []
+    }
+}{
+    "evan2794": {
+        "teams": []
+    }
+}{
+    "elizabeth91567499": {
+        "teams": []
+    }
+}{
+    "shay3408": {
+        "teams": []
+    }
+}{
+    "anthony69924400": {
+        "teams": []
+    }
+}{
+    "hmada6976": {
+        "teams": []
+    }
+}{
+    "kay2723": {
+        "teams": []
+    }
+}{
+    "seriina4649": {
+        "teams": []
+    }
+}{
+    "david89973493": {
+        "teams": []
+    }
+}{
+    "vinay5943": {
+        "teams": []
+    }
+}{
+    "eme4903": {
+        "teams": []
+    }
+}{
+    "ann9551": {
+        "teams": []
+    }
+}{
+    "carl3911": {
+        "teams": []
+    }
+}{
+    "nicholas6459": {
+        "teams": []
+    }
+}{
+    "simon5031": {
+        "teams": []
+    }
+}{
+    "richard6053": {
+        "teams": []
+    }
+}{
+    "barbara50224675": {
+        "teams": [
+            {
+                "id": 8900,
+                "shortname": "kiva_walk",
+                "name": "Kiva Walk",
+                "category": "Other",
+                "image": {
+                    "id": 1451065,
+                    "template_id": 1
+                },
+                "whereabouts": "United States of America",
+                "loan_because": "Because we know the benefit of someone providing a 'hand up' both in our work and throughout our life.   ",
+                "description": "Founded by a 8.5 month walk across the USA in 2010, the KivaWalk Lending Team is a growing movement of Kiva champions that use walking to teach and instill Kiva's mission while also connecting us to the profound benefits of life at 3mph.",
+                "website_url": "http://www.kivawalk.com",
+                "team_since": "2009-09-16T02:08:34Z",
+                "membership_type": "open",
+                "member_count": 533,
+                "loan_count": 24727,
+                "loaned_amount": 645000
+            }
+        ]
+    }
+}{
+    "sarah2345": {
+        "teams": []
+    }
+}{
+    "amanda8019": {
+        "teams": []
+    }
+}{
+    "duncan4772": {
+        "teams": []
+    }
+}{
+    "maureen2150": {
+        "teams": []
+    }
+}{
+    "alix2646": {
+        "teams": []
+    }
+}{
+    "kevin31876146": {
+        "teams": []
+    }
+}{
+    "todd1225": {
+        "teams": [
+            {
+                "id": 94,
+                "shortname": "atheists",
+                "name": "Atheists, Agnostics, Skeptics, Freethinkers, Secular Humanists and the Non-Religious",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1401504,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "We care about human beings and understand that it takes people to help people.",
+                "description": "We are one human family, and we know that people can do good without believing in a god.\r\n\r\nThe Plus sign in the A+ Team logo reflects the fact that the team comprises Atheists, PLUS Agnostics, Skeptics, Freethinkers, Secular Humanists, and Non-Religious members.  A+ is also a symbol of excellence.\r\n\r\n***TEAM WEBSITE***\r\nhttp://apluskiva.wordpress.com/\r\n\r\n***TEAM RESOURCES***\r\nSecular Loans\r\nhttp://goo.gl/wtDkJ\r\n\r\nField Partners - Social and Secular Ratings:\r\nwww.tinyurl.com/AASFSHNR-MFIs\r\n\r\n***OTHER RESOURCES:***\r\nStarfish List:\r\nhttp://starfish.dynalias.org/\r\n\r\nKivaLens:\r\nhttp://www.kivalens.org/\r\n\r\nToolkit for analyzing Kiva data:\r\nhttp://build.kiva.org/",
+                "website_url": "http://apluskiva.wordpress.com/",
+                "team_since": "2008-08-29T03:40:31Z",
+                "membership_type": "open",
+                "member_count": 30460,
+                "loan_count": 611844,
+                "loaned_amount": 17856150
+            },
+            {
+                "id": 260,
+                "shortname": "team_canada",
+                "name": "Team CANADA",
+                "category": "Local Area",
+                "image": {
+                    "id": 850245,
+                    "template_id": 1
+                },
+                "whereabouts": "Canada",
+                "loan_because": "So little means so much. And because we are so fortunate to be able to lend with the luxury of not worrying about whether we ever see that money again, while the clients borrow with the hope and determination that they will be able to repay, and improve their lives along the way.\r\n\r\nCheck out fundraising loans already being supported by Team Canada:\r\nhttp://www.kiva.org/team/team_canada/loans?status=fundRaising",
+                "description": "We're Canadian, eh?",
+                "website_url": "http://www.kiva.org/team/team_canada",
+                "team_since": "2008-08-31T06:17:49Z",
+                "membership_type": "open",
+                "member_count": 7234,
+                "loan_count": 150592,
+                "loaned_amount": 4737725
+            }
+        ]
+    }
+}{
+    "vince1569": {
+        "teams": []
+    }
+}{
+    "kimberly1170": {
+        "teams": [
+            {
+                "id": 5357,
+                "shortname": "university_at_buffalo",
+                "name": "University at Buffalo",
+                "category": "Colleges/Universities",
+                "whereabouts": "Buffalo, NY",
+                "loan_because": "We can!  We believe that the grass-roots efforts of micro-lending can make a big difference by providing working capital quickly to those in dire need of it. Our lending on Kiva fulfill the hopes of so many hard working people who strive to improve their life style.",
+                "description": "Students, Staff, Alumni & Friends of University at Buffalo.",
+                "website_url": "",
+                "team_since": "2009-03-01T03:06:55Z",
+                "membership_type": "open",
+                "member_count": 17,
+                "loan_count": 310,
+                "loaned_amount": 7850
+            }
+        ]
+    }
+}{
+    "brianne4473": {
+        "teams": []
+    }
+}{
+    "linda1493": {
+        "teams": []
+    }
+}{
+    "karim3533": {
+        "teams": []
+    }
+}{
+    "michael66879746": {
+        "teams": []
+    }
+}{
+    "kumar6460": {
+        "teams": []
+    }
+}{
+    "nancy28249560": {
+        "teams": []
+    }
+}{
+    "carolyn3566": {
+        "teams": []
+    }
+}{
+    "leeann7341": {
+        "teams": [
+            {
+                "id": 22124,
+                "shortname": "our_kiva_team",
+                "name": "kiva peeps",
+                "category": "Friends",
+                "image": {
+                    "id": 937100,
+                    "template_id": 1
+                },
+                "whereabouts": "Santa Cruz, CA",
+                "loan_because": "it's kiva!",
+                "description": "",
+                "website_url": "",
+                "team_since": "2011-12-03T06:29:09Z",
+                "membership_type": "closed",
+                "member_count": 4,
+                "loan_count": 207,
+                "loaned_amount": 5225
+            }
+        ]
+    }
+}{
+    "john81679726": {
+        "teams": []
+    }
+}{
+    "wesley9444": {
+        "teams": [
+            {
+                "id": 283,
+                "shortname": "christians",
+                "name": "Kiva Christians",
+                "category": "Friends",
+                "image": {
+                    "id": 471653,
+                    "template_id": 1
+                },
+                "whereabouts": "Worldwide",
+                "loan_because": "Pure and undefiled religion before God the Father is this: to care for orphans and widows in their misfortune and to keep oneself unstained by the world. (Jam. 1:27) http://whoisjesus-really.com/\r\n\r\nLink to information regarding Christian partners       \r\nhttp://goo.gl/LU3hzz",
+                "description": "A group of believers in Jesus Christ, brought together through a common purpose: to help those in need around the world.    \r\n",
+                "website_url": "http://whoisjesus-really.com/",
+                "team_since": "2008-08-31T15:33:31Z",
+                "membership_type": "open",
+                "member_count": 14402,
+                "loan_count": 360780,
+                "loaned_amount": 14009275
+            }
+        ]
+    }
+}{
+    "karen6136": {
+        "teams": []
+    }
+}{
+    "kevin70297577": {
+        "teams": []
+    }
+}{
+    "martin1066": {
+        "teams": [
+            {
+                "id": 16980,
+                "shortname": "erfolg",
+                "name": "Erfolg",
+                "category": "Friends",
+                "image": {
+                    "id": 675654,
+                    "template_id": 1
+                },
+                "whereabouts": "Guatemala",
+                "loan_because": "Living outside of Europe shows how important every little help can be.",
+                "description": "",
+                "website_url": "http://erfolg.org",
+                "team_since": "2010-12-23T18:23:43Z",
+                "membership_type": "open",
+                "member_count": 5,
+                "loan_count": 29,
+                "loaned_amount": 875
+            }
+        ]
+    }
+}{
+    "christine3883": {
+        "teams": []
+    }
+}{
+    "peri9916": {
+        "teams": []
+    }
+}{
+    "angela8039": {
+        "teams": []
+    }
+}{
+    "emilybeth6593": {
+        "teams": []
+    }
+}{
+    "joan9980": {
+        "teams": []
+    }
+}{
+    "bethany8412": {
+        "teams": [
+            {
+                "id": 16141,
+                "shortname": "ipswich_ale_brewery",
+                "name": "Ipswich Ale Brewery",
+                "category": "Businesses",
+                "image": {
+                    "id": 644699,
+                    "template_id": 1
+                },
+                "whereabouts": "Ipswich, Ma",
+                "loan_because": "We want to invest in others everytime we enjoy a beer. We value the help we have had along the way and we want to help others grow and prosper.",
+                "description": "We are dedicated brewery workers and supporters who wish to help others acheive their career dreams as we have ours!",
+                "website_url": "http://www.ipswichalebrewery.com",
+                "team_since": "2010-11-18T18:16:15Z",
+                "membership_type": "open",
+                "member_count": 17,
+                "loan_count": 192,
+                "loaned_amount": 4875
+            }
+        ]
+    }
+}{
+    "dave9475": {
+        "teams": [
+            {
+                "id": 288,
+                "shortname": "new_york",
+                "name": "New York",
+                "category": "Local Area",
+                "image": {
+                    "id": 716139,
+                    "template_id": 1
+                },
+                "whereabouts": "New York City",
+                "loan_because": "New York is full of entrepreneurs so we want to support others around the world, and give them the opportunity to alleviate themselves out of poverty.",
+                "description": "We are a group of like minded New Yorkers who connect to make a difference.\r\n\r\nPlease note, Team Message unrelated to Kiva New York team lending & activities may be deleted.  Please keep posts related to the team!\r\n\r\nhttp://gplus.to/kivany",
+                "website_url": "www.kivanyc.com",
+                "team_since": "2008-08-31T16:29:41Z",
+                "membership_type": "open",
+                "member_count": 2838,
+                "loan_count": 59463,
+                "loaned_amount": 1739900
+            }
+        ]
+    }
+}{
+    "mira1342": {
+        "teams": []
+    }
+}{
+    "naji2457": {
+        "teams": []
+    }
+}{
+    "beth9014": {
+        "teams": []
+    }
+}{
+    "frances7401": {
+        "teams": []
+    }
+}{
+    "jack2793": {
+        "teams": []
+    }
+}{
+    "ashley9029": {
+        "teams": []
+    }
+}{
+    "sara8534": {
+        "teams": []
+    }
+}{
+    "rita8395": {
+        "teams": []
+    }
+}{
+    "derek6420": {
+        "teams": []
+    }
+}{
+    "ryler8086": {
+        "teams": []
+    }
+}{
+    "charles78577441": {
+        "teams": []
+    }
+}{
+    "troy2689": {
+        "teams": []
+    }
+}{
+    "roberto6390": {
+        "teams": []
+    }
+}{
+    "aisha5361": {
+        "teams": []
+    }
+}{
+    "william1884": {
+        "teams": []
+    }
+}{
+    "joseph77": {
+        "teams": []
+    }
+}{
+    "john38028169": {
+        "teams": []
+    }
+}{
+    "teresa5279": {
+        "teams": []
+    }
+}{
+    "wayne6651": {
+        "teams": []
+    }
+}{
+    "sue38438756": {
+        "teams": []
+    }
+}{
+    "walid4835": {
+        "teams": []
+    }
+}{
+    "judy1988": {
+        "teams": []
+    }
+}{
+    "rachel3543": {
+        "teams": []
+    }
+}{
+    "amanda8515": {
+        "teams": []
+    }
+}{
+    "dean8878": {
+        "teams": []
+    }
+}{
+    "steven6177": {
+        "teams": []
+    }
+}{
+    "avery4845": {
+        "teams": []
+    }
+}{
+    "katherine7766": {
+        "teams": []
+    }
+}{
+    "gabilea5778": {
+        "teams": []
+    }
+}{
+    "scott8814": {
+        "teams": []
+    }
+}{
+    "zoya1040": {
+        "teams": []
+    }
+}{
+    "david54382175": {
+        "teams": []
+    }
+}{
+    "connie7610": {
+        "teams": []
+    }
+}{
+    "maryanne3458": {
+        "teams": []
+    }
+}{
+    "vicki6980": {
+        "teams": []
+    }
+}{
+    "linda84516932": {
+        "teams": []
+    }
+}{
+    "jennifer7818": {
+        "teams": [
+            {
+                "id": 22,
+                "shortname": "poverty2prosperity",
+                "name": "Poverty2Prosperity.org - Poverty-Escape",
+                "category": "Businesses",
+                "image": {
+                    "id": 198853,
+                    "template_id": 1
+                },
+                "whereabouts": "San Francisco Bay Area CA",
+                "loan_because": "Poverty2Prosperity.org (P2P) is all about Poverty-Escape. Please join our fun team and put Poverty-Escape in the lead!  See how to get your I'm a Kiva Loaner Bracelet and more by participating on Team P2P - visit our web site for details!",
+                "description": "One of P2P's major poverty-escaping projects is to participate in making microloans through the Kiva platform. See the web site for details on all of our projects. Also see our Perpetual Fund lender account which allows people to designate funds for perpetual loaning here on Kiva, http://www.kiva.org/lender/P2PPerpetualFund\r\n\r\nWe have a special purpose fund to keep loans from expiring. Please join us at http://poverty2prosperity.org/sosloans to see currently funding loans from the SOS Loan fund.\r\n\r\nNOTE:  Poverty2Prosperity is also a non-profit, and any messages not related to Kiva or Poverty2Prosperity may be deleted.  If there is an idea you would like to share, contact one of the Team Captains to get permission.  Thank you for your consideration.",
+                "website_url": "http://Poverty2Prosperity.org",
+                "team_since": "2008-08-22T17:24:49Z",
+                "membership_type": "open",
+                "member_count": 3042,
+                "loan_count": 92106,
+                "loaned_amount": 2902200
+            }
+        ]
+    }
+}{
+    "daniel2389": {
+        "teams": []
+    }
+}{
+    "katelyn2434": {
+        "teams": []
+    }
+}{
+    "beth9196": {
+        "teams": []
+    }
+}{
+    "cindy6685": {
+        "teams": []
+    }
+}{
+    "andr2137": {
+        "teams": []
+    }
+}{
+    "ashley4215": {
+        "teams": []
+    }
+}

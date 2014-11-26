@@ -58,7 +58,7 @@ loanEdgeNodes = snap.TStrV()
 lenderEdgeNodes = snap.TStrV()
 edgePairs = snap.TStrPrV()
 numEdges = 0
-file = open(".\lender_loans.txt", "r")
+file = open("lender_loans.txt", "r")
 for line in file:
     numEdges += 1
     words = line.split()
@@ -130,7 +130,7 @@ for curEdge in range(0, numEdges):
         prevLenderIds.Add(curLenderId)            
     prevLoanName = curLoanName
 
-snap.SaveEdgeList(GLender, ".\GLender.edgelist", "Folded Lender Graph")
+snap.SaveEdgeList(GLender, "GLender.edgelist", "Folded Lender Graph")
 
 if (False):
     for EI in GLender.Edges():
@@ -168,7 +168,7 @@ for curEdge in range(0, numEdges):
                         GLoan.AddEdge(curLoanId1, curLoanId2)
         prevLenderName = curLenderName           
 
-snap.SaveEdgeList(GLoan, ".\GLoan.edgelist", "Folded Loan Graph")
+snap.SaveEdgeList(GLoan, "GLoan.edgelist", "Folded Loan Graph")
 
 if (False):
     for EI in GLoan.Edges():

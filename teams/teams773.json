@@ -1,0 +1,438 @@
+{
+    "ming2923": {
+        "teams": []
+    }
+}{
+    "shane2526": {
+        "teams": []
+    }
+}{
+    "eun2556": {
+        "teams": []
+    }
+}{
+    "laura1933": {
+        "teams": []
+    }
+}{
+    "mara6771": {
+        "teams": [
+            {
+                "id": 76,
+                "shortname": "africa",
+                "name": "Africa",
+                "category": "Common Interest",
+                "image": {
+                    "id": 220654,
+                    "template_id": 1
+                },
+                "whereabouts": "Everywhere",
+                "loan_because": "We believe micro lending is one of the best & most sustainable ways to end extreme poverty in the world, and are drawn to empowering entrepreneurs in Africa because it is the most disadvantaged socio-economic demographic group in the world.\r\n\r\nCheck out this great TED talk on the solution for Africa: http://www.ted.com/talks/lang/eng/andrew_mwenda_takes_a_new_look_at_africa.html",
+                "description": "",
+                "website_url": "",
+                "team_since": "2008-08-28T20:28:47Z",
+                "membership_type": "open",
+                "member_count": 176,
+                "loan_count": 3816,
+                "loaned_amount": 97650
+            },
+            {
+                "id": 132,
+                "shortname": "fairspirit",
+                "name": "Netherlands",
+                "category": "Local Area",
+                "image": {
+                    "id": 200457,
+                    "template_id": 1
+                },
+                "whereabouts": "Netherlands",
+                "loan_because": "het mensen helpt een zelfstandig bestaan op te bouwen.",
+                "description": "FairSpirit microkrediet promoot Kiva in Nederland. Doe jij ook mee met het FairSpirit team?",
+                "website_url": "http://www.fairspirit.nl",
+                "team_since": "2008-08-29T19:52:10Z",
+                "membership_type": "open",
+                "member_count": 1256,
+                "loan_count": 66340,
+                "loaned_amount": 1919275
+            }
+        ]
+    }
+}{
+    "fernando59594213": {
+        "teams": [
+            {
+                "id": 15558,
+                "shortname": "teresa_almeida_memorial_",
+                "name": "Teresa Almeida Memorial",
+                "category": "Memorials",
+                "image": {
+                    "id": 620378,
+                    "template_id": 1
+                },
+                "whereabouts": "Global",
+                "loan_because": "Teresa would be happy to know we are keeping her memory alive through small aid that can bring big changes.",
+                "description": "Teresa was a traveler. From all her trips she brought us a lot, but the most significant weight in her (small) luggage were the values of friendship and social justice. We are those who knew her and loved her and shared with Teresa her hope for a better world.",
+                "website_url": "",
+                "team_since": "2010-10-16T17:02:03Z",
+                "membership_type": "open",
+                "member_count": 7,
+                "loan_count": 26,
+                "loaned_amount": 650
+            }
+        ]
+    }
+}{
+    "zach3347": {
+        "teams": []
+    }
+}{
+    "karen8695": {
+        "teams": []
+    }
+}{
+    "jess8858": {
+        "teams": []
+    }
+}{
+    "pascal4081": {
+        "teams": [
+            {
+                "id": 339,
+                "shortname": "swisskiva",
+                "name": "Swiss Kiva",
+                "category": "Local Area",
+                "image": {
+                    "id": 197166,
+                    "template_id": 1
+                },
+                "whereabouts": "Switzerland",
+                "loan_because": "",
+                "description": "Residents, citizens, and fans of Switzerland with a common interest in supporting the entrepreneurs of the developing world.",
+                "website_url": "",
+                "team_since": "2008-09-01T12:08:06Z",
+                "membership_type": "open",
+                "member_count": 602,
+                "loan_count": 34232,
+                "loaned_amount": 953950
+            },
+            {
+                "id": 7470,
+                "shortname": "swisstweets",
+                "name": "swisstweets",
+                "category": "Other",
+                "image": {
+                    "id": 386517,
+                    "template_id": 1
+                },
+                "whereabouts": "Switzerland",
+                "loan_because": "loaning is as easy as tweeting...",
+                "description": "twitters from switzerland",
+                "website_url": "",
+                "team_since": "2009-06-25T13:19:20Z",
+                "membership_type": "open",
+                "member_count": 180,
+                "loan_count": 6085,
+                "loaned_amount": 210825
+            }
+        ]
+    }
+}{
+    "melinda4327": {
+        "teams": []
+    }
+}{
+    "elizabeth7999": {
+        "teams": []
+    }
+}{
+    "pedro2145": {
+        "teams": []
+    }
+}{
+    "marit97339391": {
+        "teams": []
+    }
+}{
+    "pamela2576": {
+        "teams": []
+    }
+}{
+    "sarah72343194": {
+        "teams": []
+    }
+}{
+    "frej6847": {
+        "teams": []
+    }
+}{
+    "casey5227": {
+        "teams": [
+            {
+                "id": 18721,
+                "shortname": "seomozzers",
+                "name": "SEOmozzers",
+                "category": "Common Interest",
+                "image": {
+                    "id": 730649,
+                    "template_id": 1
+                },
+                "whereabouts": "",
+                "loan_because": "",
+                "description": "The best damn group of SEO's around the globe.",
+                "website_url": "http://www.seomoz.org",
+                "team_since": "2011-03-14T00:56:15Z",
+                "membership_type": "open",
+                "member_count": 7,
+                "loan_count": 146,
+                "loaned_amount": 4325
+            }
+        ]
+    }
+}{
+    "colette1826": {
+        "teams": [
+            {
+                "id": 1985,
+                "shortname": "northern_ireland",
+                "name": "Northern Ireland",
+                "category": "Local Area",
+                "image": {
+                    "id": 214162,
+                    "template_id": 1
+                },
+                "whereabouts": "Northern Ireland",
+                "loan_because": "We're lucky enough that we can.",
+                "description": "Northern Ireland is a small country in the United Kingdom, bordering on The Republic of Ireland.\r\n\r\nIt's had more than its share of political trouble in the past, but we're getting past that now. There's a brighter future ahead.\r\n\r\nThe photo is of the Giant's Causeway, our most famous landmark, and was taken by ifyr (http://www.flickr.com/photos/ifyr/1105459227/).",
+                "website_url": "",
+                "team_since": "2008-10-15T19:52:32Z",
+                "membership_type": "open",
+                "member_count": 47,
+                "loan_count": 859,
+                "loaned_amount": 24325
+            },
+            {
+                "id": 108,
+                "shortname": "ireland",
+                "name": "Ireland",
+                "category": "Local Area",
+                "image": {
+                    "id": 195850,
+                    "template_id": 1
+                },
+                "whereabouts": "Ireland",
+                "loan_because": "Small streams become mighty rivers.",
+                "description": "A group of Kiva Lenders from Ireland, or with links to Ireland. Feel free to join our community :)",
+                "website_url": "",
+                "team_since": "2008-08-29T11:49:19Z",
+                "membership_type": "open",
+                "member_count": 426,
+                "loan_count": 7666,
+                "loaned_amount": 228400
+            }
+        ]
+    }
+}{
+    "marie9614": {
+        "teams": []
+    }
+}{
+    "claudia6214": {
+        "teams": []
+    }
+}{
+    "ginnie6833": {
+        "teams": []
+    }
+}{
+    "jason3524": {
+        "teams": []
+    }
+}{
+    "michelle8571": {
+        "teams": []
+    }
+}{
+    "jamesdundon": {
+        "teams": [
+            {
+                "id": 5125,
+                "shortname": "binghamton_university",
+                "name": "Binghamton University",
+                "category": "Colleges/Universities",
+                "image": {
+                    "id": 528106,
+                    "template_id": 1
+                },
+                "whereabouts": "Binghamton, NY",
+                "loan_because": "We know that everyone can make a difference in this world. We strive to ascend cultural and national differences and just help out... person to person.",
+                "description": "Enthusiastic and open minded individuals who are passionate about shaping economic growth in all corners of the globe. ",
+                "website_url": "",
+                "team_since": "2009-02-18T02:58:39Z",
+                "membership_type": "open",
+                "member_count": 34,
+                "loan_count": 95,
+                "loaned_amount": 2425
+            },
+            {
+                "id": 94,
+                "shortname": "atheists",
+                "name": "Atheists, Agnostics, Skeptics, Freethinkers, Secular Humanists and the Non-Religious",
+                "category": "Common Interest",
+                "image": {
+                    "id": 1401504,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "We care about human beings and understand that it takes people to help people.",
+                "description": "We are one human family, and we know that people can do good without believing in a god.\r\n\r\nThe Plus sign in the A+ Team logo reflects the fact that the team comprises Atheists, PLUS Agnostics, Skeptics, Freethinkers, Secular Humanists, and Non-Religious members.  A+ is also a symbol of excellence.\r\n\r\n***TEAM WEBSITE***\r\nhttp://apluskiva.wordpress.com/\r\n\r\n***TEAM RESOURCES***\r\nSecular Loans\r\nhttp://goo.gl/wtDkJ\r\n\r\nField Partners - Social and Secular Ratings:\r\nwww.tinyurl.com/AASFSHNR-MFIs\r\n\r\n***OTHER RESOURCES:***\r\nStarfish List:\r\nhttp://starfish.dynalias.org/\r\n\r\nKivaLens:\r\nhttp://www.kivalens.org/\r\n\r\nToolkit for analyzing Kiva data:\r\nhttp://build.kiva.org/",
+                "website_url": "http://apluskiva.wordpress.com/",
+                "team_since": "2008-08-29T03:40:31Z",
+                "membership_type": "open",
+                "member_count": 30466,
+                "loan_count": 612069,
+                "loaned_amount": 17862300
+            },
+            {
+                "id": 11457,
+                "shortname": "libertarians",
+                "name": "Libertarians",
+                "category": "Common Interest",
+                "image": {
+                    "id": 465441,
+                    "template_id": 1
+                },
+                "whereabouts": "Earth",
+                "loan_because": "Economic prosperity is achieved not through mere employment or possession of goods, but through production. The best possible means of ending poverty is through increasing wealth by enabling production and encouraging voluntary trade around the world. There are few better means of achieving this than through micro-lending.",
+                "description": "We embrace individual liberty and support collective prosperity through mutually-beneficial voluntary trade.",
+                "website_url": "http://www.mises.org",
+                "team_since": "2010-01-07T13:08:45Z",
+                "membership_type": "open",
+                "member_count": 70,
+                "loan_count": 524,
+                "loaned_amount": 14275
+            },
+            {
+                "id": 163,
+                "shortname": "kiva_capitalists",
+                "name": "Kiva Capitalists",
+                "category": "Common Interest",
+                "image": {
+                    "id": 231055,
+                    "template_id": 1
+                },
+                "whereabouts": "Global",
+                "loan_because": "Capital and business make the world go round; trade is a stabilizing force. Offering non-usurious loans to help people start businesses to provide others with goods and services they need or want is what capitalism is all about. We are all proud capitalists, and some of us are even unrepentant.",
+                "description": "Free markets, free minds. Hayek, Mises, Friedman.",
+                "website_url": "",
+                "team_since": "2008-08-30T01:54:25Z",
+                "membership_type": "open",
+                "member_count": 266,
+                "loan_count": 7827,
+                "loaned_amount": 278550
+            },
+            {
+                "id": 1050,
+                "shortname": "boston_university",
+                "name": "Boston University",
+                "category": "Colleges/Universities",
+                "image": {
+                    "id": 208119,
+                    "template_id": 1
+                },
+                "whereabouts": "Boston",
+                "loan_because": "",
+                "description": "If you are a student, faculty, alumni, or otherwise affiliated with Boston University, please join! ",
+                "website_url": "",
+                "team_since": "2008-09-12T13:32:46Z",
+                "membership_type": "open",
+                "member_count": 105,
+                "loan_count": 2695,
+                "loaned_amount": 325150
+            }
+        ]
+    }
+}{
+    "kate3269": {
+        "teams": []
+    }
+}{
+    "cheri7931": {
+        "teams": [
+            {
+                "id": 18696,
+                "shortname": "badballerinas",
+                "name": "Bad Ballerinas",
+                "category": "Common Interest",
+                "image": {
+                    "id": 729878,
+                    "template_id": 1
+                },
+                "whereabouts": "",
+                "loan_because": "At BadBallet.com, we are leaping onto the next stage of our lives — no tutu required! We want to help women all over the world do that as well. We know that our loans will help women start businesses, support their families and enrich their lives.",
+                "description": "The Bad Ballerinas are women of any age who are exploring a new stage of life. We like to try new things, support each other, explore the world and help other women do the same! We're honored to be able to use our Kiva loans to improve women's lives.",
+                "website_url": "http://www.badballet.com",
+                "team_since": "2011-03-11T21:32:41Z",
+                "membership_type": "open",
+                "member_count": 13,
+                "loan_count": 32,
+                "loaned_amount": 800
+            }
+        ]
+    }
+}{
+    "claus2140": {
+        "teams": [
+            {
+                "id": 3121,
+                "shortname": "banqueros_tec_de_monterrey",
+                "name": "Banqueros - Tec de Monterrey",
+                "category": "Alumni Groups",
+                "image": {
+                    "id": 235172,
+                    "template_id": 1
+                },
+                "whereabouts": "Monterrey",
+                "loan_because": "Hacemos prestamos por que entendemos el potencial que tiene la banca y los micro-creditos para apoyar a la gente que quiere trabajar para salir adelante",
+                "description": "Alumnos y ex-alumnos de la clase de ADMINISTRACION BANCARIA del  Tec de Monterrey, campus Monterrey",
+                "website_url": "",
+                "team_since": "2008-12-05T18:23:35Z",
+                "membership_type": "open",
+                "member_count": 127,
+                "loan_count": 219,
+                "loaned_amount": 5550
+            }
+        ]
+    }
+}{
+    "ben9693": {
+        "teams": []
+    }
+}{
+    "jane5891": {
+        "teams": []
+    }
+}{
+    "katherine5480": {
+        "teams": [
+            {
+                "id": 1923,
+                "shortname": "motorcyclcists_of_the_world",
+                "name": "Motorcyclists of the world",
+                "category": "Common Interest",
+                "image": {
+                    "id": 909541,
+                    "template_id": 1
+                },
+                "whereabouts": "Worldwide",
+                "loan_because": "We were born to give",
+                "description": "We are free-wheeling, pure air-breathing, born-free bikers",
+                "website_url": "",
+                "team_since": "2008-10-14T02:03:48Z",
+                "membership_type": "open",
+                "member_count": 59,
+                "loan_count": 2008,
+                "loaned_amount": 52325
+            }
+        ]
+    }
+}

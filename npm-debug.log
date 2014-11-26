@@ -1,0 +1,183 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'node-dev' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.33
+4 verbose cache add [ 'node-dev', null ]
+5 verbose cache add name=undefined spec="node-dev" args=["node-dev",null]
+6 verbose parsed url { protocol: null,
+6 verbose parsed url   slashes: null,
+6 verbose parsed url   auth: null,
+6 verbose parsed url   host: null,
+6 verbose parsed url   port: null,
+6 verbose parsed url   hostname: null,
+6 verbose parsed url   hash: null,
+6 verbose parsed url   search: null,
+6 verbose parsed url   query: null,
+6 verbose parsed url   pathname: 'node-dev',
+6 verbose parsed url   path: 'node-dev',
+6 verbose parsed url   href: 'node-dev' }
+7 silly lockFile c62b500c-node-dev node-dev
+8 verbose lock node-dev /Users/abe/.npm/c62b500c-node-dev.lock
+9 silly lockFile c62b500c-node-dev node-dev
+10 silly lockFile c62b500c-node-dev node-dev
+11 verbose addNamed [ 'node-dev', '' ]
+12 verbose addNamed [ null, '*' ]
+13 silly lockFile 2552a2f1-node-dev node-dev@
+14 verbose lock node-dev@ /Users/abe/.npm/2552a2f1-node-dev.lock
+15 silly addNameRange { name: 'node-dev', range: '*', hasData: false }
+16 verbose request where is /node-dev
+17 verbose request registry https://registry.npmjs.org/
+18 verbose request id c90a2f958a43bfeb
+19 verbose url raw /node-dev
+20 verbose url resolving [ 'https://registry.npmjs.org/', './node-dev' ]
+21 verbose url resolved https://registry.npmjs.org/node-dev
+22 verbose request where is https://registry.npmjs.org/node-dev
+23 info trying registry request attempt 1 at 01:02:39
+24 http GET https://registry.npmjs.org/node-dev
+25 http 200 https://registry.npmjs.org/node-dev
+26 silly registry.get cb [ 200,
+26 silly registry.get   { date: 'Mon, 24 Nov 2014 09:02:39 GMT',
+26 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+26 silly registry.get     etag: '"CGDAXH6YAKMB9SPCDEY9NVY1Y"',
+26 silly registry.get     'content-type': 'application/json',
+26 silly registry.get     'cache-control': 'max-age=60',
+26 silly registry.get     'content-length': '42771',
+26 silly registry.get     'accept-ranges': 'bytes',
+26 silly registry.get     via: '1.1 varnish',
+26 silly registry.get     age: '0',
+26 silly registry.get     'x-served-by': 'cache-lax1425-LAX',
+26 silly registry.get     'x-cache': 'MISS',
+26 silly registry.get     'x-cache-hits': '0',
+26 silly registry.get     'x-timer': 'S1416819759.272203,VS0,VE119',
+26 silly registry.get     vary: 'Accept',
+26 silly registry.get     'keep-alive': 'timeout=10, max=50',
+26 silly registry.get     connection: 'Keep-Alive' } ]
+27 silly addNameRange number 2 { name: 'node-dev', range: '*', hasData: true }
+28 silly addNameRange versions [ 'node-dev',
+28 silly addNameRange   [ '0.1.3',
+28 silly addNameRange     '0.1.4',
+28 silly addNameRange     '0.1.5',
+28 silly addNameRange     '0.1.6',
+28 silly addNameRange     '0.1.8',
+28 silly addNameRange     '0.1.9',
+28 silly addNameRange     '0.2.0',
+28 silly addNameRange     '0.2.1',
+28 silly addNameRange     '0.2.2',
+28 silly addNameRange     '0.2.3',
+28 silly addNameRange     '0.2.4',
+28 silly addNameRange     '0.2.5',
+28 silly addNameRange     '0.2.6',
+28 silly addNameRange     '0.2.7',
+28 silly addNameRange     '0.2.8',
+28 silly addNameRange     '0.2.9',
+28 silly addNameRange     '0.2.10',
+28 silly addNameRange     '0.3.0',
+28 silly addNameRange     '2.0.0',
+28 silly addNameRange     '2.0.1',
+28 silly addNameRange     '2.0.2',
+28 silly addNameRange     '2.1.0',
+28 silly addNameRange     '2.1.1',
+28 silly addNameRange     '2.1.2',
+28 silly addNameRange     '2.1.3',
+28 silly addNameRange     '2.1.4',
+28 silly addNameRange     '2.1.5',
+28 silly addNameRange     '2.1.6',
+28 silly addNameRange     '2.2.0',
+28 silly addNameRange     '2.3.0',
+28 silly addNameRange     '2.4.0',
+28 silly addNameRange     '2.4.1',
+28 silly addNameRange     '2.5.0',
+28 silly addNameRange     '2.6.0' ] ]
+29 verbose addNamed [ 'node-dev', '2.6.0' ]
+30 verbose addNamed [ '2.6.0', '2.6.0' ]
+31 silly lockFile 07c1347d-node-dev-2-6-0 node-dev@2.6.0
+32 verbose lock node-dev@2.6.0 /Users/abe/.npm/07c1347d-node-dev-2-6-0.lock
+33 silly lockFile e9b9c379--org-node-dev-node-dev-2-6-0-tgz https://registry.npmjs.org/node-dev/-/node-dev-2.6.0.tgz
+34 verbose lock https://registry.npmjs.org/node-dev/-/node-dev-2.6.0.tgz /Users/abe/.npm/e9b9c379--org-node-dev-node-dev-2-6-0-tgz.lock
+35 verbose addRemoteTarball [ 'https://registry.npmjs.org/node-dev/-/node-dev-2.6.0.tgz',
+35 verbose addRemoteTarball   '3934055744e785bb53c0d06d68f3e4f92c98c902' ]
+36 info retry fetch attempt 1 at 01:02:39
+37 verbose fetch to= /var/folders/8l/000cvtfj3w35pp2jglm3jvl00000gn/T/npm-7469-jdl8TSWj/registry.npmjs.org/node-dev/-/node-dev-2.6.0.tgz
+38 http GET https://registry.npmjs.org/node-dev/-/node-dev-2.6.0.tgz
+39 http 200 https://registry.npmjs.org/node-dev/-/node-dev-2.6.0.tgz
+40 silly lockFile e9b9c379--org-node-dev-node-dev-2-6-0-tgz https://registry.npmjs.org/node-dev/-/node-dev-2.6.0.tgz
+41 silly lockFile e9b9c379--org-node-dev-node-dev-2-6-0-tgz https://registry.npmjs.org/node-dev/-/node-dev-2.6.0.tgz
+42 silly lockFile 07c1347d-node-dev-2-6-0 node-dev@2.6.0
+43 silly lockFile 07c1347d-node-dev-2-6-0 node-dev@2.6.0
+44 silly lockFile 2552a2f1-node-dev node-dev@
+45 silly lockFile 2552a2f1-node-dev node-dev@
+46 silly resolved [ { name: 'node-dev',
+46 silly resolved     version: '2.6.0',
+46 silly resolved     description: 'Restarts your app when files are modified',
+46 silly resolved     keywords: [ 'restart', 'reload', 'supervisor', 'monitor', 'watch' ],
+46 silly resolved     author: { name: 'Felix Gnass' },
+46 silly resolved     repository: { type: 'git', url: 'http://github.com/fgnass/node-dev.git' },
+46 silly resolved     license: 'MIT',
+46 silly resolved     bin: { 'node-dev': './bin/node-dev' },
+46 silly resolved     main: './lib',
+46 silly resolved     preferGlobal: true,
+46 silly resolved     engines: { node: '>=0.8.0' },
+46 silly resolved     scripts: { test: 'node test' },
+46 silly resolved     dependencies:
+46 silly resolved      { dateformat: '~1.0.4-1.2.3',
+46 silly resolved        'dynamic-dedupe': '^0.2.0',
+46 silly resolved        filewatcher: '~1.1.1',
+46 silly resolved        'node-notifier': '^4.0.2',
+46 silly resolved        resolve: '^1.0.0' },
+46 silly resolved     devDependencies: { 'coffee-script': '^1.8.0', tap: '^0.4.13' },
+46 silly resolved     gitHead: 'f6bf7ded4b5124cf58d37e44bfea20cd1e5057ec',
+46 silly resolved     bugs: { url: 'https://github.com/fgnass/node-dev/issues' },
+46 silly resolved     homepage: 'https://github.com/fgnass/node-dev',
+46 silly resolved     _id: 'node-dev@2.6.0',
+46 silly resolved     _shasum: '3934055744e785bb53c0d06d68f3e4f92c98c902',
+46 silly resolved     _from: 'node-dev@',
+46 silly resolved     _npmVersion: '1.4.14',
+46 silly resolved     _npmUser: { name: 'fgnass', email: 'fgnass@gmail.com' },
+46 silly resolved     maintainers: [ [Object] ],
+46 silly resolved     dist:
+46 silly resolved      { shasum: '3934055744e785bb53c0d06d68f3e4f92c98c902',
+46 silly resolved        tarball: 'http://registry.npmjs.org/node-dev/-/node-dev-2.6.0.tgz' },
+46 silly resolved     directories: {},
+46 silly resolved     _resolved: 'https://registry.npmjs.org/node-dev/-/node-dev-2.6.0.tgz' } ]
+47 info install node-dev@2.6.0 into /usr/local/lib
+48 info installOne node-dev@2.6.0
+49 verbose lib/node_modules/node-dev unbuild
+50 verbose tar unpack /Users/abe/.npm/node-dev/2.6.0/package.tgz
+51 silly lockFile c89b1ad4--local-lib-node-modules-node-dev tar:///usr/local/lib/node_modules/node-dev
+52 verbose lock tar:///usr/local/lib/node_modules/node-dev /Users/abe/.npm/c89b1ad4--local-lib-node-modules-node-dev.lock
+53 silly lockFile 994d577d-e-npm-node-dev-2-6-0-package-tgz tar:///Users/abe/.npm/node-dev/2.6.0/package.tgz
+54 verbose lock tar:///Users/abe/.npm/node-dev/2.6.0/package.tgz /Users/abe/.npm/994d577d-e-npm-node-dev-2-6-0-package-tgz.lock
+55 silly gunzTarPerm modes [ '755', '644' ]
+56 error Error: EACCES, mkdir '/usr/local/lib/node_modules/node-dev'
+56 error  { [Error: EACCES, mkdir '/usr/local/lib/node_modules/node-dev']
+56 error   errno: 3,
+56 error   code: 'EACCES',
+56 error   path: '/usr/local/lib/node_modules/node-dev',
+56 error   fstream_type: 'Directory',
+56 error   fstream_path: '/usr/local/lib/node_modules/node-dev',
+56 error   fstream_class: 'DirWriter',
+56 error   fstream_stack:
+56 error    [ '/usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23',
+56 error      '/usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:46:53',
+56 error      'Object.oncomplete (fs.js:107:15)' ] }
+57 error Please try running this command again as root/Administrator.
+58 error System Darwin 14.0.0
+59 error command "/usr/local/bin/node" "/usr/local/bin/npm" "install" "-g" "node-dev"
+60 error cwd /Users/abe/dev/stanford/cs224/project/kivaTeamCrawler
+61 error node -v v0.10.33
+62 error npm -v 1.4.28
+63 error path /usr/local/lib/node_modules/node-dev
+64 error fstream_path /usr/local/lib/node_modules/node-dev
+65 error fstream_type Directory
+66 error fstream_class DirWriter
+67 error code EACCES
+68 error errno 3
+69 error stack Error: EACCES, mkdir '/usr/local/lib/node_modules/node-dev'
+70 error fstream_stack /usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23
+70 error fstream_stack /usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:46:53
+70 error fstream_stack Object.oncomplete (fs.js:107:15)
+71 verbose exit [ 3, true ]
